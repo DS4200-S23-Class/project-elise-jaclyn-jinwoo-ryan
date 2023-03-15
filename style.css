@@ -1,7 +1,60 @@
-body {
-    font-family: Arial;
+body{
+  font-family: Arial;
 }
 
-h1 {
-    text-align: center;
+h1{
+  text-align: center;
 }
+
+h2{
+  text-align: center;
+    clear: both;
+}
+
+h3{
+  text-align:left;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column1 {
+  float: left;
+  width: 60%;
+}
+
+.column2 {
+  float: right;
+  width: 40%;
+}
+
+#frame {
+  width: 500px;
+  height: 500px;
+}
+
+
+/* Clear floats after the columns */
+
+line {
+    stroke-width: 5px;
+    stroke: black;
+}
+
+
+circle {
+   fill: black;
+}
+
+circle:hover{
+  fill: yellow;
+}
+
+
+.Border {
+  stroke: purple;
+  stroke-width: 4;
+}
+
