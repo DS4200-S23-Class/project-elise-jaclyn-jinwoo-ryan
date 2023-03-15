@@ -1,0 +1,672 @@
+address,take_out,business_id,latitude,longitude,name,review_count,stars
+"131 Anacapa St, Ste C",True,IDtLPgUrqorrpqSLdfMhZQ,34.4144445,-119.6906718,Helena Avenue Bakery,389,4.0
+230 Stearns Wharf,True,SZU9c8V2GuREDN5KgyHFJw,34.4087147,-119.6850187,Santa Barbara Shellfish Company,2404,4.0
+2733 De La Vina St,True,ifjluUv4VASwmFqEp8cWlQ,34.4362361,-119.7261474,Marty's Pizza,64,4.0
+528 Anacapa St,True,-kY_HDP7IMvGl-kBIZVU4A,34.4189939,-119.6950684,Dune Coffee Roasters - Anacapa,320,4.0
+116 Santa Barbara St,True,-ujBP1Dw0j1-Ffaz97-LXQ,34.4157471,-119.6884801,Lama Dog Tap Room,238,4.0
+"1213 State St, Ste L",False,UFpCraqzFBAhtZqmxmiWsA,34.4233018995,-119.7054707479,Cat Therapy,116,4.5
+1114 State St,True,JWFpjvCc_nkNDVtMPx1ZGg,34.4230427,-119.7032863,Bogo SB,12,4.5
+34 E Sola St,False,TZ-bgvsk189WywTLFrqfTQ,34.426043,-119.705782,Ascending Health Juicery,7,4.5
+,False,9L-MR0arflwFMF9szEBOOg,34.4144660474,-119.6851896343,California Wine Festival,7,4.5
+406 E Haley St,False,aYMpjij5ShtEoZueMrQPRw,34.4211189,-119.690633,The Mill,5,4.0
+205 Santa Barbara St,True,PaqDZUu76fZtMvcYqCEBig,34.4161821,-119.6897762,Rincon Brewery,32,4.0
+Earl Warren Showgrounds,False,oXP5aohLv5e7R4eahaGXkQ,34.4208305,-119.6981901,B and D's Curbside Grill,6,3.5
+140 S Hope Ave,True,qdpdUjdkEUpzYDdce2yZng,34.436708,-119.748708,Plaza Deli,188,4.0
+120 Santa Barbara St,True,pUVRCYL8rT4I5Ry5FYkRsA,34.4157949941,-119.6885961141,Topa Topa Brewing Company,105,4.5
+32 Anacapa St,False,MAIfD4kJDCydgoD1l2b_vw,34.4142112,-119.6887567,Corks n' Crowns,276,4.0
+1819 Cliff Dr,False,jW4a3W9-UkFxpglHvo_Kqg,34.401169,-119.721505,Meun Fan Thai Cafe,195,4.0
+3825 State St,True,sxuv5uZU15UHGT_HB1xYxQ,34.438119,-119.748456,Islands Restaurant,197,3.5
+227 N Nopal St,True,Qi-A4ZgcEuSnq_8Fpfo_3Q,34.4230803,-119.6840083,Our Lady of Guadalupe Mercado,8,4.5
+"11 W De La Guerra St, Unit A, Paseo Nuevo Mall",True,FDTwPQ4CNWEOY0rfh4eTzQ,34.419198636,-119.6996241767,ParadICE Hawaiian Shave Ice & Ice Cream,192,5.0
+1198 Coast Village Rd,True,iHdrLu8deF5GceB0V1rPhA,34.4213337,-119.6449814,Oliver's,313,4.5
+819 Anacapa St,False,PPcz-0UtIJ8O7xDT551y2g,34.4211464,-119.6988864,Intermezzo By Wine Cask,141,4.5
+15 East Cabrillo Blvd,True,zbrIMldF_O1ZQ0vpUaaa8A,34.412758,-119.688965,Bluewater Grill - Santa Barbara,768,4.0
+501 State St,False,ycbmvmBYk4w_ZmdrPL0tBQ,34.4167478,-119.6957697,The Cruisery,362,4.0
+819 State St,True,XwnkfMUiyH-OsJXbmbOK5g,34.4197266057,-119.7002778024,Sushi Tyme,155,3.5
+5995 Stagecoach Rd,True,0qu0fNTOsSmuREYVIMPuIQ,34.5216257926,-119.8405629067,Cold Spring Tavern,1018,4.5
+201 W Carrillo St,True,uO39--k_hrCFgZh-Bl8m8A,34.418932,-119.704239,Taqueria Cuernavaca,409,4.5
+405 Glen Annie Rd,True,fnGZspqyamRremXor0sAyg,34.4429379178,-119.8800369458,Frog Bar & Grill,16,4.0
+119 E Cota St,True,D1OT9vuepvXJrn5VDgm4YA,34.419744,-119.695264,Santa Barbara Certified Farmers Market,113,4.5
+552 University Road,True,cVW9b_1bqsvTU1jhGNWUsw,34.415142,-119.840629,Yoshinoya,9,3.0
+"1046 Coast Village Rd, Ste K",False,wFES5bGDiPANW13hNHnXOQ,34.422264,-119.650288,Sakana Sushi Bar & Japanese,374,4.0
+535 Olive St,False,tOd6MX3hSuMyQxMK3ZKBTQ,34.4226861,-119.6911465,Lucky Taxi & Limousine,7,4.5
+6 Harbor Way,False,Ea2N2vZirKywxylvVo9Xpg,34.403734,-119.6930168,Saturday Fishermen's Market,9,5.0
+324 State St,True,MbzgGsMQpGyVrUJXi_Jw0Q,34.4157298,-119.6936606,Dawn Patrol,807,4.0
+217 G Stearns Wharf,True,eL4lyE7LNoXEMvpcJ8WNVw,34.4100065,-119.6855487,Deep Sea Tasting Room,472,4.0
+115 E Haley St,True,ygZyTUWS4dbVL8d6vAiN4A,34.418462,-119.693982,Taqueria Rincon Alteno,68,4.0
+331 Motor Way,True,34Eqv8jXgxg_EEwcsNgeeg,34.4151137,-119.6944966,Backyard Bowls,659,4.0
+1812 Cliff Dr,True,kZtl_NJjUnlIQgzFrBhXyQ,34.4017849,-119.720842,Ichiban,227,3.5
+1012 State St,True,-3AooxIkg38UyUdlz5oXdw,34.421931,-119.7021852,Chase Restaurant,436,3.0
+4765 Calle Real,True,T2otvNcawDSkhykOG2tOLA,34.44335,-119.78812,IHOP,113,2.5
+4067 State St,False,13UbOVDFdxloxaient5XWA,34.4393777962,-119.7583532456,Jump On The School Bus,175,5.0
+1332 Santa Barbara St,False,k3lTRgvPvYUI-cX7_TAqNA,34.427284,-119.704006,University Club of Santa Barbara,76,5.0
+915 Garden St,False,1wvYBjX6radqmb_k0Fv_Ug,34.4239925,-119.6979304,Palihouse Santa Barbara,7,4.0
+3427 State St,True,7IdIGemGZodDAA_9mJCigA,34.4400429,-119.7373433,Farmer Boy,255,4.0
+1411 San Andres St,True,xIGiif0TmmmGuV2-sidMSw,34.4179675798,-119.7153071756,La Bella Rosa Bakery Cafe,46,3.0
+230 E Victoria St,True,syuKX2pH3JJhOOppzNI6SA,34.4271662,-119.7024792,Yoichi's,184,4.5
+"35 State St, Suite #b",True,qyS7KHJNRR_1x-zIhDScBA,34.412764,-119.6903388,J Wilkes Wines,74,4.5
+"406 E Haley St, Ste 3",True,CWdCNIJU4Kh480NV9dgQjw,34.4209477132,-119.690492184,Third Window Brewing,183,4.5
+425 State St,True,I0jFTYVDs-WHwKR2XHQlRA,34.4162591,-119.6952494,Zen Yai Thai Cuisine,347,4.0
+205 South Salinas St,False,4g7eZD8PYvUEwROZeXxA-w,34.4250092,-119.6703553,Salas Mobile Mechanic,41,5.0
+,True,rxH22mT81ht_n3cGTbWi4A,34.4208305,-119.6981901,Beans BBQ and Catering,13,5.0
+"125 Harbor Way, Ste 8",False,n6reYUBVF9buglcojgB0FQ,34.403986,-119.693797,Harbor Market & Deli,6,2.0
+502 State St,True,gebiRewfieSdtt17PTW6Zg,34.4169836,-119.6955563,Hibachi Steak House & Sushi Bar,488,3.5
+621 State St,True,jLn69WQupjsDKrbPw_nlGQ,34.418154,-119.697609,Yogurtland Santa Barbara,125,4.0
+"University Center Bldg, Room 1180",True,dv6tq79a0PhoFphStXkqcQ,34.411499,-119.849012,Jamba Juice,15,3.0
+1218 Santa Barbara St,True,6VVbLYay8czrjKJ4xRoTxQ,34.4259896,-119.7026565,Judge For Yourself Cafe,110,4.5
+651 Paseo Nuevo,False,8-ZExybRuyyXZf6aESgc3g,34.418991,-119.699996,Paseo Nuevo Shopping Center,125,4.0
+"2030 Cliff Dr, Ste 1A",True,jZncFsMQdrq268OHq_Q6uw,34.402527,-119.724409,Super Cuca's Taqueria,108,4.0
+618 Anacapa St,True,R93mEcQ1pjq7q3LzShi3ow,34.4195407,-119.6963589,"Villa Craft Beer, Wine & Kitchen",77,5.0
+601 Paseo Nuevo,True,NIQWO-Q_F598XlAvZnFVCA,34.4186116,-119.7001508,Eureka!,961,4.0
+4421 Hollister Ave,True,BEzvmorW8ILha6tcSxBBwA,34.439746,-119.770649,Valentino's Take N Bake Pizza,69,4.5
+129 Castillo St,False,6cnHwjHLcAtIuMN0C6Kpbw,34.4090304175,-119.6951916436,Buckles 'N' Brews Invitational,10,4.5
+5110 Hollister Ave,True,VOhZZ_8YhJ1mw8zmuw4k-w,34.4352748,-119.8027861,Magnolia Liquors,7,2.5
+3524 State St,True,eukRpR47MDH4XXfU_Dul9Q,34.440642,-119.7392725,Madam Lu,136,3.5
+,False,4_JJl_mlIEI9Ui9rOHHwMA,34.420334,-119.7107494,Wine & Horse Tours,7,3.5
+719 Paseo Nuevo,True,TUtf4FLtotdQDleYpRIfnw,34.418802,-119.700585,California Pizza Kitchen at Santa Barbara,193,3.0
+"315 Meigs Rd, Ste I",True,-fxH1XplVLVtWg2ZJWwRdA,34.400863,-119.722647,Sam's To Go,87,4.5
+503 State St,True,Js3m_GdqNUGnEgXJ8WMtfQ,34.416504,-119.6956177,Hana Kitchen,253,3.0
+3940 State St,True,jshnKTsnoXLSez5XD1qo7Q,34.440871,-119.753054,McDonald's,56,2.5
+402 N Milpas St,True,EtGFDdjui_Hww78JU4XoXg,34.4256965483,-119.6839676052,7-Eleven,6,3.0
+18 E Cota St,False,GBD-YjcOD1nG0wv4L0Lvfg,34.4182166,-119.6961201,Venus in Furs,24,5.0
+2299 Las Positas Rd,False,GmOfZHgU9fm75f1nmVZnNA,34.4270394,-119.734822,The Point Market,7,3.5
+3631 State St,True,jR3sTUWCPuOCWpdm8Pn-wQ,34.4401926268,-119.7415157408,Sun Sushi,270,4.5
+213 Paseo Nuevo,True,1pd4VYTww1UWDVai2r2RKg,34.4189482,-119.69974,805 Boba,248,3.0
+"3851 State St, Ste A",True,tS47dXDlx9t-6B_F56cKUA,34.439503969,-119.7491598645,Chipotle Mexican Grill,97,2.0
+800 Alvarado Pl,True,0jpFptAehZhLl3nkhHDanA,34.4388519,-119.7043733,Belmond El Encanto,331,4.0
+3020 State St,True,XHxAIQR-QAz6j1RMaz_J1A,34.4405277,-119.7290589,Giovanni's of Santa Barbara,131,3.5
+416 E Haley St,True,nMn4CTJQPXqpgLltYQrxMA,34.4214524,-119.690428,Cajé Coffee Roasters - Haley St,240,4.5
+901 N Milpas St,True,ejqpFQ0dwO7AZhxTO9fySg,34.4299488,-119.6907914,Bossie's Kitchen,140,4.5
+3305 State St,True,ghLjxj4HoSHdflBEz2lIqA,34.439341,-119.735118,Gelson's,110,3.5
+"6 Harbor Way, Ste 127",False,gaNQrd95h2-4TZaUDPTAIQ,34.4037461,-119.6930334,Rooted Vine Tours,45,5.0
+636 Santa Barbara St,False,6gAZriMqRfI0d4hse5o1Yg,34.4208421,-119.6955096,Sol Wave Water,28,4.5
+3731 State St,True,C-aATB7SbuwMBPN5dgjghQ,34.4400942,-119.7434636,Rusty's Pizza Parlor,127,3.0
+514 State St,True,EtM079Cj7-B3G7jPsGYb_Q,34.417371,-119.695827,Sandbar,1546,3.5
+633 E Cabrillo Blvd,True,jfRq1KtjEGyPoMo9HZVw2Q,34.4169717235,-119.6770748713,The Set,32,3.5
+"1028 Coast Village Rd, Ste A",True,e8NRt-1C8eI85C59pKhJuA,34.4220401,-119.6517261,Caffe Luxxe,50,3.5
+604 Santa Barbara St,True,23OxrUaCvvVrwSa1z3xG-w,34.4202441,-119.6946664,Recipes Bakery & Gifts: An Australian Coffee House,128,4.5
+8301 Hollister Ave,False,Slg6Ec2D7vEBRmgVUfwkzQ,34.4341630825,-119.9202039,Angel Oak,202,4.0
+32 Anacapa St,False,VC4jqq8Hu1_RjBFt8nHD2Q,34.4142112,-119.6887567,Sugar Cat Studio,19,5.0
+335 S Milpas St,True,RtJC7xavgAxOITQyAlGCbQ,34.4181830276,-119.6738992514,Tri-County Produce Co,95,4.0
+116 E Yanonali St,False,1xsBRB203LiYLcC3mktfdA,34.4152803,-119.6899095,Kunin Wines,168,4.0
+205 W Canon Perdido St,True,6HTGlttrzCMsuGBHO1ZGiw,34.4180454,-119.7029526,Barbareño,405,4.5
+1111 E Cabrillo Blvd,True,mZ-pJSdAVrBa7ioXVzE7-Q,34.4176519804,-119.6691209078,Marbella,22,3.5
+6034 Hollister Ave,True,jfW3_wYOj09pCOHJQB74_w,34.4374149758,-119.8339623649,AR Catering,5,5.0
+626 W Micheltorena St,True,BaWVwChTW_MqkKru_WZp3g,34.4192829,-119.7158982,Super Cuca's Restaurant,276,4.0
+3534 State St,True,tSmUxIto8yAqijDgsjLBRQ,34.4406775553,-119.7397025874,South Coast Deli - Santa Barbara,10,4.0
+508 State St,True,lu2UpRHLBZfvLG_caNEHKQ,34.417184,-119.69578,The Natural Cafe,566,4.0
+"120 State St, Ste B, The Funk Zone",True,cEN8j6jL0OJ0zhe-AX58Hw,34.413582,-119.691057,McConnell's Fine Ice Creams,156,4.5
+128 E Canon Perdido St,True,PWWGbkPC_agn-4s1Hv1W5A,34.4222976,-119.6984801,Handlebar Coffee Roasters,1048,4.5
+711 Chapala St,False,gsXBNWHWhHv_f9NcwpVajw,34.4176797,-119.6998452,Lighthouse Coffee,29,4.5
+331 West Montecito,True,qS7uSZdQ3f0HqYSSaiYQ3A,34.4107609,-119.6969798,7-Eleven,10,2.0
+3404 State St,True,12Gc4OFQ-WAW0fAk2hRZuQ,34.4406266,-119.7367796,Kin Bakeshop,25,5.0
+235 W Montecito St,True,pqF3WkYktbR28uk2PSR7Rg,34.4117091,-119.6960527,The Neighborhood Bar,240,4.0
+UCSB University Center,True,rlfWeYI1SLvC8ZKM_OvXWA,34.411663,-119.847796,A Slice of Woodstock's,10,4.0
+1131 State St,True,7kLn2XsFwyJ-yFn4qx40TQ,34.4229213,-119.7044244,Buena Onda at Mosaic Locale,35,4.5
+622 N Milpas St,False,6RBZfirnzE4NahJTn1UPNA,34.4279428,-119.6872838,La Super-Rica Taqueria,1759,4.0
+"3905 State St, Ste 1",False,aIDRH4eKKBV0Je_W4y83sw,34.4403188562,-119.7515594111,Nutrishop,48,4.5
+1305 State St,True,1U8Kt44FIkC7RnJsNjaMTA,34.4244063718,-119.706060133,Teru Japanese Cuisine,34,4.5
+3905 State St,True,p2kC-cD22QAQzIGD8ZuqFA,34.4402405999,-119.7516484945,Peet's Coffee,73,4.0
+35 S Milpas St,False,_o3AtnA941ClNRa8Rx7c-A,34.421468,-119.677352,Rite Aid,31,1.5
+"315 Meigs Rd, Ste J",True,dQ6d9H7rnFSOSC_FXbJ_FQ,34.4005756,-119.7227184,Blenders In the Grass,50,4.0
+3006 State St,True,vTXNVK73GOvVb3js4w8SLg,34.4405731,-119.7284108,Domino's Pizza,39,2.5
+"140 S Hope Ave, Ste A102",True,7grEnJV48N6BxbEP3uxISA,34.4367253,-119.748687,Mr B Restaurant & Cafe,21,4.0
+"3815 State St, Space #G-141",True,S7Cl9gYqaC9jlw32yd4_Yg,34.438351,-119.748331,Starbucks,50,3.0
+5221 Cheadle Hall,True,L8rhRyXtpq2nCE0il1KN_g,34.4157346304,-119.846678722,Coral Tree Cafe,28,3.0
+36 State St,False,sZHLbLnw1vwHF1xDzuV1iw,34.4132794,-119.6898862,Foley Food and Wine Society Tasting Room,11,4.5
+414 N Milpas St,True,E8tiSAB6O4TPeVdKR0K5Ug,34.4259023,-119.6843914,Rusty's Pizza Parlor,89,3.0
+1024 Coast Village Rd,True,M3LZKA-tVFRJyPeKA3_2OA,34.4227834,-119.6518454,Merci To Go,9,4.5
+"1230 State St, Ste C",True,CUWituEeIX3xA0xU7X82Ow,34.4241338,-119.7053847,Brasil Arts Cafe,360,4.0
+210 Stearns Wharf,False,AgiBcv5rKdV9QIO5yF7w8g,34.4104753,-119.6868426,Harbor of Santa Barbara Inc,5,3.5
+17 W Ortega St,True,E1R-xslwl7XeTN5lQ7mWPg,34.417947,-119.6984853,Little Kitchen,272,4.5
+514 E Haley St,False,YGgGefpPTFhgthvQvMAGoQ,34.4224118,-119.6893092,Lito's Take  Out,286,4.0
+221 Stearns Wharf,True,2pBNVsJo3a3CPbInUu9lvQ,34.4097583,-119.6853378,Char West,134,3.0
+"11 W Victoria St, Ste 17",True,z6I4QVP1M1HXETgwD92XHg,34.4229971148,-119.7045224474,Olio E Limone Ristorante,488,4.0
+11 W De La Guerra St,True,XkveGZ8pr9TL5bZCqmzuhA,34.4191062,-119.6995489,Hustle & Grind Coffee Company,50,4.5
+217 N Milpas St,True,ZYqNIWch6Ik9wLZCa1hxkw,34.42387,-119.68222,Tacos Pipeye,171,4.5
+232 W Carrillo St,True,Ce6B2-CYAjGvRZe3GKyxYA,34.4185116,-119.7053495,Rusty's Pizza Parlor,124,3.0
+1260 Channel Dr,False,MX2YGruhd0sMNHZGK7p5-Q,34.417214,-119.642527,Bella Vista,261,4.0
+"1324 State St, Ste N, Arlington Plaza",True,-loV4cB2Uh9TCltTRgGzWQ,34.4253682196,-119.7059071571,Renaud's Patisserie & Bistro,379,4.0
+15 W Gutierrez St,True,mPKqBWLSD8wxJLJ_4juY2w,34.4152547,-119.6945635,Chocolate Maya,159,4.5
+3955 State St,True,nnn78cplvQGZSMVblpI5gQ,34.4391030986,-119.7526712666,Mandarin Palace,229,3.0
+819 E Montecito St,False,tnoUVvJZRPcawXl2gTlWpQ,34.4241946,-119.6835904,Jaffurs Wine Cellars,68,4.5
+316 N Milpas St,True,okc-iCgWvKGa1DfQSOh1Ig,34.4250335328,-119.6827870625,Milpas Taqueria,10,4.0
+1404 De La Vina St,True,tGQytMbOXDdZS_OSK9hkBw,34.4234023,-119.7091656,Louie's California Bistro,149,4.0
+833 N Milpas St,True,WWVw3g_n2ik8yp1Xlh3qEQ,34.4295904,-119.6902331,Mi Fiesta Liquor,6,3.5
+4749 Calle Real,True,XSL9RuLwRTyhNUwUo7WAPw,34.443573,-119.78884,Starbucks,18,2.0
+836 N Milpas St,True,RKuAfE06rDcetvOTI5MbbA,34.430141,-119.690105,Taqueria El Buen Gusto,88,4.5
+2735 De La Vina St,True,gMyj3DKvZJrMzuXv1p64GA,34.4362772,-119.7261952,De La Vina Liquor,5,3.0
+4422 Hollister Ave,False,Ch6O9z9_hHDACROLTr2JUQ,34.440266,-119.7707687,European Deli Market,45,4.5
+336 N Milpas St,False,UDZxN93l5_ggUFeF0EEcYg,34.4254,-119.6836,CVS Pharmacy,7,3.0
+418 State St,False,AqOSpSqdocwtIjqTECW2ng,34.416527,-119.6945756,Broad Street Oyster Company,5,5.0
+5134 Hollister Ave,True,FE5R_F7svUphKeUWuxA0JA,34.435934,-119.8028451,Del Pueblo Cafe,206,4.0
+23 E Canon Perdido St,True,LtxG9DTXCFpteVkD4SGBlw,34.421359,-119.7000324,Sevtap Winery Tasting Room,307,4.0
+631 W Carrillo St,True,zJpZ-uQ_F0XVgK1u98uWSg,34.4146025,-119.7100933,Gloria's Gourmet Kitchen,13,4.5
+19 E Mason St,False,O3jPfTDRn5_1O3ZM_LuxQw,34.4135892,-119.6900928,Margerum Wine Company,139,4.5
+321 Motor Way,True,VgAKmXE8B7J0I_O_R13UKQ,34.41507,-119.6944335,Santa Barbara Roasting Company,511,4.0
+3849 State St,True,D_PdJRvtr_syv1DtLIoM0g,34.43926,-119.749113,See's Candies,12,4.0
+738 State St,True,yw3vRR7XLIjEnlhMnVzR7w,34.419763,-119.6989834,Kai Sushi Shabu-Shabu,240,2.5
+927 State St,True,rlh6-MqKplp6DE42aRuS6w,34.420955,-119.701742,Viva Oliva,20,5.0
+1112 State St,True,XyYsl2OyoMi6OMvzsdcVoQ,34.422807,-119.703594,MIZZA,380,4.0
+832 N Milpas St,True,JZrspVMm79n_iHTYftkI0g,34.4301395303,-119.6897619065,La Tapatia Bakery,56,4.0
+3325 State St,True,qx2YTFXfVDwQUfOeWCFfbw,34.439864,-119.735889,Jersey Mike's Subs,43,3.0
+32 E Haley St,False,TvBxBjed-iX6_22SwEYEFQ,34.4176801,-119.6943553,Santa Barbara Wine Country Tours,23,5.0
+18 W Figueroa St,True,vhWlxyLEWAbNOMtQ42yzFg,34.4219915,-119.7038202,Norton's Pastrami & Deli,492,4.5
+1260 Channel Dr,False,noiUCN8A9Vdm9pUbWX6K-w,34.4174611,-119.6425353,Tydes Restaurant,56,4.0
+"3925 State St, Unit A",True,PHSda9zEwtFicCICD6TP1A,34.4401464276,-119.7523719474,Luna Grill,225,4.0
+726 N Milpas St,True,DV0BJwh9qzPqcxufrA_7ag,34.4290389,-119.6886416,Sam's to Go - Milpas,33,3.0
+825 State St,False,cNvCXy9SaWjIQNEh3bc3gQ,34.419983,-119.700408,Rite Aid,36,2.0
+721 Chapala St,True,YXaCcpETNtxrNNK6TbUTlw,34.4180326753,-119.6999645625,Sachi Ramen And Robata Bar,324,4.0
+414 E Haley St,True,UBK6zb5-XUETfVzYkRTj1Q,34.4213378,-119.6903648,Lab Social,40,4.5
+801 Shoreline Dr,True,Un-UDVOuv1co3TMmGaumxA,34.4026017,-119.697943,Shoreline Beach Cafe,534,4.0
+1150 Coast Village Rd,True,2nF2syYoD5VBFk01le6NkA,34.4213976639,-119.646426848,Montecito Deli & Catering,31,4.5
+,False,MsqmvxOvkOnofmLlFM1iHg,34.4496518576,-119.7332053326,Market Forays,8,4.5
+3891 State St,False,VUeRlNoPfxywzNxWHU2Tig,34.440028,-119.750853,Target,50,3.0
+720 State St,True,z9-8KvMAlVK46De-G3sNJQ,34.4193109,-119.6985193,Blenders In The Grass,239,4.0
+138 S Salinas St,True,2OJqIloZMAZXCW3uzF8jJw,34.4249436,-119.6711303,El Sitio,37,4.0
+2000 De La Vina St,True,W7gSJz80DywKnPRIGjA2Bw,34.428957,-119.7169716,Derf's Cafe,126,3.5
+217 Starnms Wharf,False,V2cQOeZwPBmjpln6_p1Ygw,34.4100137734,-119.6855497819,Stearns Wharf,297,4.0
+"205 Paseo Nuevo, Paseo Nuevo Mall",False,ZJrGrghbNx4WTPb5cL2GFw,34.419215,-119.700334,See's Candies,11,3.0
+1429 San Andres St,True,oJwMmSZKJOnMboZ_z67MZw,34.4184182,-119.7160021,Revolver,93,4.5
+2010 Cliff Dr,True,z64NmuzWMMmJty6gE_3nWQ,34.4025297,-119.7237643,Vons,24,2.5
+3888 State St,True,ERzIS-WRLw-80_B4yqcG3Q,34.4407042,-119.7500818,Chuck's of Hawaii,260,3.5
+1117 State St,True,IZZ7J14VnJGyUqYH1tgT6w,34.4226158,-119.7040291,Satellite,159,4.5
+119 Harbor Way,True,U3grYFIeu6RgAAQgdriHww,34.4037593,-119.6939922,Brophy Bros - Santa Barbara,2940,4.0
+207 W Anapamu St,True,-veGIq3SvwFMi5ZwMSIqkg,34.420862,-119.706714,Red Sand Market and Deli,11,4.5
+728 E Haley St,True,oJsuZohTOk7oTiA7K3aqRw,34.4248528,-119.6866645,Mi Fiesta Market 4,7,3.0
+1201 Anacapa St,True,q36uZc2hQml10YGHazJaoQ,34.4244769367,-119.7035096092,Secret Bao,145,4.5
+119 State St,True,nYPzsOjvida-ne7swSPHpA,34.413456,-119.691322,Santo Mezcal,990,4.5
+310 Chapala St,True,9ugpNKKhnYRa51qXoxUw_A,34.414316,-119.694449,Lilly's Tacos,1219,4.5
+633 E Cabrillo Blvd,True,e63pcbZaXxSY_YyhBol-bw,34.4171879238,-119.6766893918,The Roundhouse,22,2.5
+512 State St,True,cAbdvzqtFLaAAMFIyPf2AA,34.4171144,-119.6958556,Holdren's Steaks & Seafood,544,4.0
+905 State St,True,IXQH9-nnTWZFgBF0V3MH-A,34.4206139,-119.7009473,Cali-Forno Pizzeria,16,4.0
+"3835 State St, Ste C-150-A, La Cumbre Plaza",False,iIwnJPJJMVExGDwRE3UhUw,34.4374845506,-119.7483566735,Williams-Sonoma,30,3.0
+"618 Anacapa St, Ste A, Villa Wine Bar",True,u3uB0GD7cVf5NC-AFHdwnQ,34.4195407,-119.6963589,Golden Line Coffee Bar,10,5.0
+716 State St,False,IG-CwPl5mb6-hmpFjXUIvA,34.419247,-119.698394,Choppa Poke,52,4.0
+202 N Milpas,True,5vIfUavd23X3lBzjnnc4QA,34.423799,-119.6815126,Winchell's Donuts,21,3.0
+10 E Carrillo St,True,-r6nmLB5Vi2TLQCxh0_dtw,34.4217021,-119.7013299,South Coast Deli- Carrillo,215,4.0
+,True,NTWeW_PgQjIZ38h8St7mCQ,34.420334,-119.7107494,Posies & Sugar,14,5.0
+1533 State St,True,mAqgsZBTN-wsShMpkz2o9g,34.4267539,-119.7095028,Cantwell's Market & Deli,142,3.0
+"117 Harbor Way, Unit A",False,sor6oj-nuslOcSx7di4urA,34.4037491,-119.6935611,Santa Barbara Fish Market,327,4.0
+1225 State St,True,U2hkeMI-q4cS35QolJYN0A,34.4238502,-119.7054774,Arigato Sushi,980,4.0
+14 W Calle Laureles,True,b2Za53CjptGyf9K0fFnrAg,34.4398038551,-119.7283961644,Petrini's Italian Restaurant - Santa Barbara,233,4.0
+28 W Figueroa St,True,UCf1qieF9Lss61Te-Qnacg,34.4218719,-119.7043007,Sushi Cafe,10,3.0
+813 Anacapa St,False,iaLaRfHUysXkKd1iNCTWbw,34.4210178,-119.6988418423,Cebada Wine,67,4.5
+208 West Carrillo St,True,Aj44kUBmEfJlUsGCvKJKtw,34.419347,-119.704388,Starbucks,21,3.0
+721 Cliff Dr,False,H5bsmYmdO3FBVQHC3jfx2g,34.4064006,-119.6972865,John Dunn Gourmet Dining Room,5,4.0
+3629 State St,False,3fpAmsSuEFNF29UUPpgwlw,34.4401969,-119.7414014,Spudnuts & Bagels,292,4.5
+"1819 Cliff Dr, Unit C",False,dDU-0EW4Asx-RnM-vULFQw,34.4010923,-119.7214959,Lighthouse Coffee,87,4.5
+610 State St,True,8vMULlBjFJyS_836tOKnVQ,34.4181565,-119.6967313,World Market,56,4.0
+20 W Figueroa St,False,sjWf71VmU5HIwqX8RGCLJw,34.4218599144,-119.7039636863,Riviera Bar,22,4.5
+"1046 Coast Village Rd, Ste F",True,Gz3vi3dVKMylBb8HV1tP8Q,34.4219674,-119.6501878,Blenders In the Grass,68,3.5
+130 N Calle Cesar Chavez,True,LsniEK_m_Jbj7JMbT4eRxQ,34.4206191,-119.6842739,101 Deli,28,4.5
+224 Helena St,True,omnCKxL0f_akh0eYeJxjDg,34.4152367,-119.6917437,Seven Bar & Kitchen,353,4.0
+1906 Cliff Dr,True,uQSCNdPI0dC_sPsOh1U8NQ,34.4018817782,-119.7223486789,McDonald's,41,2.0
+210 Stearns Wharf,True,6EPPtwJR1kdIfHiCjzCzuw,34.4104753,-119.6868426,The Harbor Restaurant,477,3.5
+"4151 Foothill Rd Building A Main Fl, Bldg A",True,0iLgVQpBeIYYwQZIblTTVw,34.4510957997,-119.7600908624,Cafe 154,10,4.0
+3401 State St,True,1XoX4eLYyfK4b8l_TqiPUg,34.4401074,-119.736727,il Fustino,28,4.5
+3611 State St,True,ZyplC1MYtyPS3dxuBTLziA,34.4400656,-119.74073,Baskin Robbins,29,3.0
+,True,x1-RLqVvspmksSiICHCcRw,34.4208305,-119.6981901,Delaney's Desserts,8,5.0
+"634 State St, M. Special Brewing Company",False,cCi63HyU5XtjCaCVw0qJCw,34.4187305,-119.6976933,M Kitchen,15,3.0
+76 El Sueno Rd,False,CNVbKrqBr6NdKqzCYLeZrA,34.4417269,-119.7691746,Hi Time Stop & Shop,7,3.5
+1972 Cliff Dr,True,IRyKDIF51M0GcqS8yfPcYA,34.4022202,-119.7228003,Mesa Cafe,374,4.0
+401 E Haley St,True,1oGCzoCC6HnQWpdK9cCP0g,34.4212987,-119.6910125,Low Pigeon Coffee Roasters,93,5.0
+"1940 Cliff Dr, Ste B-13",True,1lwulkAD5htni3rbHW8oeg,34.402151,-119.7225483,Subway,11,3.0
+3849 State St. Space I-58,True,ebJav941naDgngDP2EIRHw,34.439041,-119.749199,Panda Express,51,2.5
+1816 Cliff Dr,True,j3Ml_qEFnDOaH5miNzG6xw,34.40162,-119.721043,Rose Cafe No 2,173,3.5
+33 Parker Way,True,0tbscjPg4IzURekIn_CJ1Q,34.4144582,-119.6944402,Juice Ranch,150,4.0
+2220 Bath St,True,45D7B9CqiUTTPUFcqmLx5Q,34.4303146,-119.720935,Live Oak Cafe,263,4.5
+1316 State St,True,0iHHsSqphxrBWWecYEJcuQ,34.4248531,-119.7060883,Cajé Coffee - Arlington St,72,4.5
+1213 State St,True,wUHUyTrOpUcTVTQpyZFo8w,34.423608,-119.705139,McDonald's,34,2.0
+436 State St,True,COSC9JC0Vjr89CaTZuPkUA,34.4167251564,-119.6952347475,Santa Barbara Craft Ramen,477,4.0
+30 W Anapamu St,False,E_ac8Q20OJD9L8cafCBKaQ,34.42257,-119.7054592,Milk & Honey Tapas,534,4.0
+734 State St,True,oinV9xrSkR3b_T8sK1nsqg,34.4195327202,-119.6991314739,Bibi Ji,260,3.5
+7 W Carrillo St,True,tyt3pz0x3ZB8GXsSx1a9Aw,34.4210753,-119.7019558,Roy,251,4.0
+,False,fO89arPgWzq_1YYQYLS4Yw,34.420334,-119.7107494,Wine Tasting Designated Drivers of Santa Barbara,85,4.5
+"1324 State St, Ste A",True,CkENBnSJFfPA1hY0qrqfCg,34.42505409,-119.7065041501,Carlitos Cafe Y Cantina,731,3.5
+900 San Ysidro Ln,False,qM2gfO-cqpDzxmIX-XzuWA,34.4468032725,-119.6230980256,Plow & Angel,77,4.0
+628 State St,True,9u79dIXLQzmt9rnOZEnBaQ,34.418499,-119.697453,The Habit Burger Grill,306,4.0
+811A State St,False,r_UPGh9GHMyBhPVMKVxRuw,34.4195961,-119.7001497,Cajé Coffee Roasters,36,4.5
+718 State St,True,-I7M6l0h46VdiN09Y1NUZw,34.4192388,-119.6983869,Apna Indian Kitchen,246,4.5
+110 W Mission St,True,ToqcYJVdnrp4fefaucm-Vg,34.4298651,-119.7164754,Lele Patisserie,19,4.5
+2028 Cliff Dr,True,NmexnuLm3zyKxsgwbCe7ug,34.4024970386,-119.7241310081,The Lovin Spoonful,67,4.5
+37 E Victoria St,True,o4IiNbNybcy-L4vzTSoDJw,34.4253913532,-119.7048107601,Ca' Dario,672,4.0
+,True,pqlCSlwPp3unjiEBcZe94g,34.4208305,-119.6981901,Room For Cake,6,5.0
+340 W Carrillo St,False,y0zNj0TAgNeAkE-wNphWsg,34.417540241,-119.7063985839,Arco,6,1.5
+1701 State St,True,EzhRlsTdACV60rOgrGYyqA,34.42808,-119.71125,IHOP,98,3.0
+1114 State St,True,2l-spLLGUzRiZg8dF623Nw,34.4228222462,-119.7034015551,1114 Sports Bar & Games,144,4.0
+1235 Olive St,True,RoGcpdwIe_k6Xhs71Wfs8Q,34.4294187,-119.7001372,Victoria Market,13,3.5
+121 E Yanonali St,False,3DSgJFIaXjdknbZn3LSnPQ,34.4158054,-119.689906,Dart Coffee Co,123,4.5
+2026 De La Vina St,True,-H-fZonTLitwHFY_PLAIjA,34.4295503,-119.7176051,Taffy's Pizza,192,4.0
+"137 Anacapa St, Ste D",False,XkmJfBmH-G7eLiq8vJnJRQ,34.4147649626,-119.6906670928,Cutler's Artisan Spirits,50,4.5
+"4317 State St, Ste D",True,kV1u9p8AEV7ItPlgXVODxA,34.4402476,-119.766991,Thai Kitchen,10,3.5
+7 W Haley St,False,Hl_vXTiYLozWo7T9Cq17vw,34.416454,-119.695668,Aperitivo,47,5.0
+25 Northridge Rd,False,dld9HhmtWlZwM-8evbtUlQ,34.4538189,-119.7426333,Super Bee Rescue and Removal,14,5.0
+3747 State St,False,fHUAs1ec568wu-a_mRq7Rw,34.440179,-119.7441717982,Jack in the Box,49,1.5
+34 Anacapa St,False,IljCDlZnTftfZEruqa4sRQ,34.414453,-119.689178,The Funk Zone,43,4.0
+511 State St,True,uPaVoR6XHk12KT9KTr1WFw,34.4169271,-119.6961546,ASIE,149,3.0
+235 W Montecito St,False,0c28ysQJ_M1fVToTFV-FWQ,34.4117091,-119.6960527,Wingman Rodeo - Montecito Street,44,4.0
+"1114 State St, Unit 26",True,pQh2GzkAnbLKiDqEpxcylQ,34.423038275,-119.7033359209,Barbieri & Kempe: Wine,11,5.0
+827 E Montecito St,True,c0p9TawJSQHchy5aL8NWgQ,34.4243075,-119.6832787,Rosales Mexican Restaurant,227,4.5
+"137 Anacapa St, Ste C",True,-e8RwknT5szoLk9uBZjzcw,34.4148148,-119.6905632,Riverbench Santa Barbara Tasting Room,121,4.0
+1417 San Andres St,True,-ALqLSTzkGDMscHdxA1NgA,34.418221,-119.7157951,Su Casa Fresh Mexican Grill,29,4.5
+"417 Santa Barbara St, Ste A-6",True,2NcOysjkx3eFi3xo8ndAUA,34.418152,-119.6927,Renegade Wines,11,5.0
+1201 State St,True,-TjT3y-Glfnbt6LbKETAYg,34.4233579,-119.7047765,Benchmark Eatery,544,4.0
+University Center Bldg 558,True,LEo6sBsQz3xrpKW-DQjTWQ,34.4115663406,-119.8478268587,Panda Express,18,2.5
+791 Chapala St,True,QFh-h_OZ5Io-mBk32HN28A,34.4182687,-119.7005116,Kyle's Kitchen,638,4.0
+3613 State St,True,b1shfPbHpkeWtbGbz5iAtg,34.440062,-119.7408542,Rudy's Mexican Restaurant,130,3.0
+129 N Milpas St,True,wvD7TOuE-qUhkyXoi8K8hA,34.4232378877,-119.6813092,Taqueria El Bajio,246,4.0
+3400 Calle Real,True,ySXGwFTgDesGgD3UyUfVSw,34.4307246023,-119.7354179967,Lunchbox,11,5.0
+1325 State St,True,CoZ2mpsMBP8HUG1ymKoZTg,34.4247634,-119.7067564,Opal Restaurant & Bar,954,4.0
+4447 Hollister Ave,True,Z0mBsgDzDnFAEC5o4X6G9g,34.4394311,-119.7719422,Java Station,196,3.5
+525 State St,True,l_slvEnh4v3W8BXF1gYlcQ,34.4171787,-119.6963836,Baja Sharkeez,655,3.5
+"28 Anacapa St, Ste E",True,d0E938M2_4kcuULUdnj-Xw,34.4141317,-119.6886868,Brass Bear Brewing & Bistro,269,4.5
+2618 De La Vina St,True,eBxc95u_Gcs9bLST0UntOQ,34.4352389,-119.7245736,Santa Barbara Chicken Ranch,378,4.0
+901 Chapala St,True,E3WUDYEvCVMplIFMgeN1xw,34.419398,-119.702048,Cajun Kitchen Cafe,519,4.0
+12 W Figueroa St,True,UjgqSqa4Biy34pHSEdwj_g,34.4221006,-119.7037011,Gino's Sicilian Express,253,4.0
+111 State St,True,JpwG8sDNsHuD0f6NF6YuGw,34.413168,-119.691316,Rusty's Pizza Parlor,164,3.0
+236 E Cabrillo Blvd,False,abr7RHb5adfBWscv5DyLeA,34.4144516,-119.6851791,California Brew Festival,6,5.0
+1112 State St,True,M8GN3mTBVC6iA80eRIdzgg,34.4228637,-119.703516,DeliverySB,14,4.0
+3514 State St,True,1Du1NruqJwxnzgEUHc42Jw,34.4406561,-119.7387809,SB Sunshine Cafe,208,4.5
+29 E Cabrillo Blvd,True,0ac5lGA_0wdKDnib3y59Xg,34.4131917395,-119.688437903,Flor De Maiz,434,4.0
+634 State St,True,Vt5gk5h5VlHXLu-cVKzOXw,34.4187305,-119.6976933,M. Special Brewing Company,24,3.5
+3014 State St,False,sRopdCT6Hf0mwaAHJek7Fw,34.4406191,-119.7288749,San Roque Market & Liquors,14,4.0
+8 Ashley Ave,True,ymDsgL5cHGMBVJ_gFT5p9Q,34.4207744415,-119.679336973,Sanguis,16,5.0
+800 Alvarado Pl,False,G9rBwcWp56C8r6ZFwVuimA,34.439548,-119.703871,Belmond El Encanto Dining Room,224,3.0
+,False,ggkif8dgbPvsqf8U3FI3uQ,34.420334,-119.7107494,Taste Santa Barbara Food Tours,124,5.0
+2000 Cliff Dr,True,2cRTgUdOx7PNOQ6C0nnnug,34.402491,-119.723481,Bagel Market Cafe,79,3.5
+3607 State St,True,FH0MVF7kK0D76Hh4e7hXfQ,34.4401942,-119.7408847,Jeannine's American Bakery Restaurant,575,4.0
+14 E Cota St,True,qVitsouI4aBiYx1_Fjn0Pg,34.4180746,-119.6962225,Foxtail Kitchen & Bar,270,4.0
+,False,8ei40SEWTURN8ROo5mBiJg,34.433094,-119.6817845,Fire & Wine Catering,39,5.0
+210 State St,False,XI6CauzyZbKceQSUqnrB5A,34.4146045,-119.6915289,Paradise Springs Winery,67,4.5
+175 N Turnpike Rd,False,J2gkKCIOhmMTDIt0CKkXAg,34.4434425,-119.7897616,Turnpike Shell & The Point Market,42,3.0
+302 Meigs Rd,True,wJiaLWAxfqDeFsmE2cI8tg,34.400241,-119.7216702,Lazy Acres Market - Santa Barbara,244,3.5
+1818 Cliff Dr,False,RqmKdsCh53VCr50QHybrAQ,34.4016567,-119.7211799,Mesa Liquors,5,1.5
+3132 State St,True,SsHMgOW3TT48Z7jeV5beqQ,34.4405926,-119.7324099,Kimchi Korean BBQ,312,4.0
+205 W Montecito St,False,NfHhm-3-zyeBBBwX0rNonQ,34.4121276,-119.6954078,The Berry Man,6,4.5
+3007 De La Vina St,True,a9K3jxNUUe6jr1uh8FsakQ,34.4386928,-119.7285101,The Patio Cafe Santa Barbara,65,3.0
+1311 State St,True,iBBV8vesQ8fo2IQA7an1JA,34.4243524,-119.7064283,Jane,733,4.0
+1085 Coast Village Rd,True,7kc2qp0PINf5qW8soYREYw,34.4210992,-119.6481732,The Point Market at Coast Village Chevron,33,3.5
+3943 State St,False,PBtNupbFFNj3iV1E1kr5bg,34.4395323,-119.7515165,Smart & Final Extra!,24,2.5
+31 El Paseo,False,6wPNzf-HzS-TDt6CjI_LSg,34.420488,-119.699649,Silver Wines,22,4.5
+"119 Harbor Way, Ste B",True,EXYbKA1tocvOK_1tXxZXLA,34.4039742,-119.6933033,Sushi GoGo,178,3.5
+745 S Kellogg Ave,False,ukqJEIi-tuKcvO-u3plqlg,34.4293411,-119.8242206,Mountain Spring Water of Santa Barbara,10,2.5
+417 Calle Palo Colorado,False,T97hE3STgTgpwda75h6p1w,34.445431,-119.731107,Wine Canyon Tours,152,5.0
+500 Anacapa St,False,XbKXYLjC50m1_OFESDYLWA,34.418164,-119.694435,Santa Barbara Wine Shuttle,6,5.0
+30 E Victoria St,True,fKrmWy4GFsrgdOYhN9pyZA,34.4248824,-119.7047448,Trattoria Vittoria,334,4.0
+8301 Hollister Ave,False,8A5LSwsKK5vXDH1M3_Tf1w,34.4345451317,-119.9206727994,"The Ritz-Carlton Bacara, Santa Barbara",1383,3.5
+1 State St,False,L4-_gPiqsuX50JN_-qUhNQ,34.4122052573,-119.689592,Jeannine’s American Bakery & Restaurant,41,5.0
+"1221 State St, Ste 10",True,CuRjZOmfnXjefwEpyzmTTw,34.4238017043,-119.7052940679,4 Eggs & Pizza,60,5.0
+"315 Meigs Rd, Ste K",True,ZrxlfdFU_qpnIHI2DmoRxA,34.4005756,-119.7227184,Mesa Pizza,176,4.0
+14 W Figueroa St,True,MwJsk91FJ73YzzmpVaJihQ,34.4220557,-119.7037481,Los Arroyos Mexican Restaurant & Take Out,448,4.0
+,False,hMi8sXXPj_AwwfsEJ4RZgA,34.420334,-119.7107494,Urban Wine Trail,8,5.0
+1111 E Cabrillo Blvd,True,eUIsUpG6KAonYxGoExzy2Q,34.4176389927,-119.6692747486,Costa Kitchen & Bar,14,5.0
+220 Gray Ave,True,eikRexw04kC6siBDkFnayQ,34.4163545,-119.6905232,Shalhoob's Funk Zone Patio,367,4.5
+10 El Paseo,True,DqVpNtgFCP47n6frh-LREA,34.4207686737,-119.6991676593,El Paseo Mexican Restaurant,262,3.5
+418 State St,True,pKSB4wXLiS8rd1cAEgD8oA,34.4164379726,-119.6947698532,Shaker Mill,79,4.5
+1101 State St,True,qUH2FppY7RL96F5tXzA0hQ,34.4223696,-119.7035202,Dune Coffee Roasters - State Street,633,4.0
+1915 De La Vina St,False,iBGR1hX6To3FGtCgCgDtqQ,34.4281804,-119.716529,Feast and Fest Catering,32,4.5
+3500 McCaw Ave,True,ZRy4atrG3YHdb__qtE0FsA,34.4361785995,-119.7383820172,Mulligan's Cafe & Bar,71,3.5
+101 E Cabrillo Blvd,True,E7RtIisUoRMcADSebBgNAA,34.4136026,-119.6880758,Santa Barbara FisHouse,1140,3.5
+8301 Hollister Ave,True,XXsofYxziipczzc3OFDD5Q,34.4335126,-119.9206407,Caffè,8,3.0
+210 W Carrillo St,True,T9I4G6Or3sAbyYmB7c23hw,34.4192335,-119.7046401,Tino's Italian Grocery,96,4.5
+209 S Milpas St,False,19Gx6T0v_GZW2je2J_mqOg,34.4196404,-119.6757739931,Lily's Flowers and Fruity Florets,42,3.5
+2700 De La Vina St,True,jWhlz8LesaC7jZL9bHNe9A,34.4358551,-119.7250034,Bree’Osh,29,4.5
+432 E Haley St,True,GwtVBqKzW9j0zNQ7nYnT5g,34.4217441,-119.689904,AH Juice Organics,115,3.5
+1013 Bath St,True,jssubXBNkiSJIhbKuDtmpQ,34.4185472,-119.7059044,Sushi Teri House,203,3.5
+501 N Milpas St,False,h8DlM-VbvCNzpsTqihgUAw,34.4262971,-119.6856795251,Jack in the Box,41,1.5
+2251 Las Positas Rd,True,RiOcLw__HPf_rTOTpYKnHQ,34.4265297,-119.7344374,Meet Up Chinese Cuisine,140,4.0
+"3313 State St, Ste B",True,BQv7ntaOxs80FJAji2U9pg,34.439317,-119.735834,Harry's Plaza Cafe,337,3.5
+2036 Cliff Dr,True,-6jvfSJGprbfBD2QrS9zQw,34.4025384,-119.724894,Mesa Produce,19,5.0
+1112 State St,True,n_RyzuCAiR4yW2JLkl0Jng,34.4228637,-119.703516,Cafe Shell,21,2.5
+"38 W Victoria, Unit 122",True,f3eve2cxUIzyanWnHdMtFQ,34.4236075,-119.7070539,Corazon Cocina,813,4.5
+"3849 State St, Ste 163",True,EBuSqlpzzyfZZkEgPxVV1Q,34.439291,-119.7491819,Wingstop,36,3.0
+216 E Yanonali St,True,bXrQejeR66IwebuhxPS7GA,34.4164748,-119.6894223,Metropulos Fine Foods,323,4.5
+614 E Haley,False,quLvdiaBMaLG3enWfWHKgQ,34.4234555,-119.6881324,duo events,12,5.0
+609 N Milpas St,True,QfXEdQpBojorGinfCnrKTA,34.4273816,-119.687148,Subway,17,2.5
+"3967 State St Space 4, Space 4",True,VciWUuWgNshjkRDPHiFCoQ,34.438709273,-119.7518459083,Subway,8,3.5
+2714 De La Vina St,False,jWgZRpdHy8csA1sUz1auSw,34.4360248,-119.7254785,Daniel's Bakery and Mexican Food,23,3.5
+"651 Paseo Nuevo, Ste 305",True,Nbht3URjeV94507do0goEw,34.4189924525,-119.7000565007,Pressed,111,4.5
+2704 De La Vina St,True,W7zCBDLFv13fDzRXJefrrA,34.43585,-119.725304,Mayo's Carniceria & Tacos,34,3.5
+200 Stearns Wharf,False,zVwnTKz7JIOoN-MbbQMzYA,34.409215,-119.685157,Eat This Shoot That!,80,5.0
+20 E Cota St,True,hfN0fllM3m2jykAgToRTlQ,34.4182246,-119.696015,Mezza Thyme,46,5.0
+1046 - A Coast Village Rd,True,NmJX_LZ7ShIZqspI31RVZA,34.421735,-119.650254,Starbucks,85,3.5
+1131 State St,True,Z4wmhciKWboy1FJKeqcw5w,34.422925,-119.704424,Draughtsmen Aleworks Taproom at Mosaic Locale,15,4.5
+"1221 State St, Ste 205",True,AmAc0eD6lyVyb7QdOAO1Mg,34.4237983504,-119.705293234,Soho Restaurant & Music Club,138,3.5
+2001 De La Vina St,True,yEmEDomLUofVtbZoUeFV5g,34.4286593,-119.7173255,The Daily Grind Coffee & Tea Station,312,4.0
+314 E Haley St,True,8JzURExziDYuCrd7Ve9nDQ,34.4202813,-119.6915269,Los Tarascos Bakery and Deli,44,4.5
+126 E Canon Perdido St,False,GtrY5U_M1ac3bYCk0DUeIg,34.4221614,-119.698622,Three Pickles Subs and Sandwiches,244,4.5
+226 S Milpas St,False,tf6S06LD09IFDHUpOPqPaw,34.4188894304,-119.6754104884,East Beach Tacos,856,4.5
+4123 State St,True,D_WS8rM-DVygaCKbIErZ6Q,34.440664,-119.760507,Palapa,232,4.0
+905 State St,True,JjmmSW_QQh2Db4fuIEMATA,34.4206088162,-119.7009534396,Persona Pizzeria,624,4.0
+834 Santa Barbara St,True,wfjqxgLSsLtyzswzQBziSw,34.4226944,-119.6979774,Panino,165,4.0
+120 Santa Barbara St,False,OCW1gs6Rjn90_x5EV0PuaA,34.4158531,-119.6885284,Fox Wine,69,4.5
+113 Harbor Way,False,ijU7hEUbD1Nq7KKbi4nyeQ,34.4037623,-119.6942723,I Bike Santa Barbara Wine Country Tours,79,5.0
+"38 W Victoria St, Ste 108",True,qvXw3V4_9Pu4E7Qoi7-cKA,34.4236075,-119.7070539,Fala Bar,70,4.5
+3126 State St,True,-NXRuUsazxXZZ_OHwmtYtw,34.4406064,-119.7321808,Uptown Bar & Lounge,138,4.0
+"1213 State St, Ste A",True,sk0IM8koYo1o9-k_rpkmxQ,34.4234333,-119.7052658,Taqueria Santa Barbara,95,4.5
+827 E Montecito St,True,EEwmN2uP1PmOyxpTstSIxA,34.4243367311,-119.6832437501,Fernando's Churros,40,4.5
+,False,B1mZ8PEh4JYCTElXFVg8kQ,34.4381407,-119.6151426,Poe and Co,9,4.5
+216 W Cabrillo Blvd,False,FEBwxZMEpxRwVXx9Fm0XZw,34.4099411,-119.6922624,Chad's,1268,4.0
+"811 State St, Ste B",True,2bxZhBk8JZkJ1GqfTB0cUQ,34.4195303,-119.7001825,California Pasta,287,3.5
+401 W Montecito St,False,3yI-WR2x322OvcGVUOSUjg,34.410332,-119.6973313,Chevron,43,2.5
+403 W Pueblo St,True,LMm555z8BReDxgkpF_TEug,34.4290942,-119.7231075,Park Place Deli,9,4.0
+2819 State St,True,lNECraPTMtUPDJPjmF0tVA,34.438204,-119.725019,Crocodile Restaurant & Bar,119,4.0
+"220 W Carrillo St, Ste 1",True,425FOxIzHPcOB0niWc6-1w,34.4189876171,-119.7047993817,Spudnuts Donuts,100,3.5
+516 State St,True,sj2o49ZCq2iJlZxDNrHDaA,34.4174016,-119.6958927,Institution Ale Company,150,4.5
+500 Anacapa St,False,geKBfuHkJFpQttIFfPHrmg,34.4181245,-119.694345,Eos Transportation,80,4.5
+3855 State St,False,_Uyinj5wLMJ7x2cCfHO1Yg,34.4381445,-119.7494594,Bristol Farms - Santa Barbara,62,3.5
+"3815 State St, Ste G131",True,3Wy21heeDm8h2tSZfcj6OA,34.43884928,-119.7481642957,Lure Fish House,1453,4.5
+200 S Milpas St,False,k8Lm3Vn2202baslhmOK4FQ,34.4192680363,-119.676387012,76 Self Serve Gasoline,11,2.5
+3707 State St,True,NuMR1xJu6Ewxaicc4yLOFw,34.440156,-119.742963,Chick-fil-A,232,4.0
+2911 De La Vina St,True,vj6AetpADpHOYtMRZsXX3g,34.4374508,-119.7273828,Los Agaves,807,4.0
+1236 Santa Barbara St,True,xVtO6a4dqKQQzMXkSPL80A,34.4264694,-119.7032393,Presidio Market,73,4.0
+134 E Canon Perdido St,True,WVNkMz4sEl35swjVtKHOFw,34.4224228151,-119.6983611,Alessia Patisserie & Cafe ,112,4.5
+229 W Montecto St,True,FTFaEinJgzqY0ZHQMUSpQQ,34.4120313,-119.6957699,The Brewhouse,696,3.5
+21 W Victoria St,True,thlyktt2c7v1DyOpSVSibw,34.4235294,-119.7062569,Scarlett Begonia,897,4.0
+"406 E Haley St, Ste 1",True,sBxbAv4TEjGZiLmPlnxrbQ,34.4211189,-119.690633,Potek Winery,33,4.5
+"324 State St, Ste C",False,FjJxG78092vB1sa6hYzebw,34.4157298,-119.6936606,First Paige Fitness,5,5.0
+509 State St,True,CziOtnFSklimJnBgksDDwA,34.419107,-119.699243,Pascucci,1069,3.5
+215 Helena Ave,False,Slihcg1bmYvw-V_FUFghLg,34.4147205,-119.6919534,Harbor Meat & Seafood,14,5.0
+"1485 E Valley Rd, Ste 14",True,kwqXOtLCbNjgvwuMj4H1AQ,34.4365522,-119.6331957,Montecito Gourmet by Village Cheese & Wine,70,4.5
+3890 La Cumbre Plz Ln,True,-ipZBVF9nWm1vzrvQ3444A,34.4383258245,-119.7496509558,Habit Burger Grill,131,4.0
+,False,QNilrbTi8912ye2ztnBMpA,34.42,-119.7,DeeTours of Santa Barbara,188,5.0
+305 W Montecito St,False,5LeEWF3UxdPAQhtss_PbJg,34.4113204,-119.6962919,Mercado El Rey,15,4.5
+30 El Paseo,False,4dF9bWpFOKGiFmL3tFmvbQ,34.4201902,-119.6996819,Happy Canyon Vineyard,69,4.0
+107 Harbor Way,True,7wcHZ80HLJVwUijAH_efJQ,34.404278,-119.694053,Breakwater Restaurant,212,3.5
+,False,iktsndB_zjwblxdfigyrOw,34.420334,-119.7107494,Aspyn's Table,7,5.0
+116 E Yanonali St,True,mxZMSFUamk7SIf5ndCLAxA,34.415395,-119.690058,Pali Wine,142,4.0
+116 E Yanonali St,False,VguQ-YnKapMYMrfaKljWBg,34.4152803,-119.6899095,The Valley Project,75,4.0
+7 S Milpas St,True,Fg68C3AwFu74dXMhgX3qIw,34.421637097,-119.6784399163,Carl's Jr,18,3.5
+"1114 State St, Ste 18",True,r926yelr_EJAKQCjdD6AWA,34.423044,-119.703208,State & Fig,519,4.0
+504 State St,True,mEzH6V1ruMHJrgKuLGoi1g,34.4170173,-119.6956047,Cold Stone Creamery,52,2.5
+900 San Ysidro Ln,False,aFhPwy7OhyKah4cJY2QdEQ,34.446845,-119.623092,Stonehouse Restaurant,339,4.5
+,False,PilMA5jBSjfh2rlCLG50Cw,34.420334,-119.7107494,Blue Corn Tacos Catering,11,5.0
+3761 State St,True,AMi1h-goNueHf_Lvx4Cu4g,34.43934579,-119.7455127,Whole Foods Market,224,3.0
+217 E Gutierrez St,False,ryGwDtxLX9crWxXQMfFAvQ,34.4189049,-119.6921436,Smart & Final,17,2.5
+414 N Salsipuedes St,True,iBTc6XKgW5HESEZIii-G4g,34.4225755,-119.6875599,Carr Winery,164,4.5
+308 S Walnut Ln,True,Y6WDt1LiVZNNDCN8dR_bZg,34.4341691,-119.8020276,Lane Farms Produce Stand & Patch,41,4.0
+4069 State St,False,7UbXvL4SnVEDtx8oJbbuhw,34.4401727182,-119.758493118,Speedway,9,2.0
+3925 State St,True,grBPIq_eJCT_SGuhvMrUZQ,34.4401597,-119.7524213,Blaze Pizza,146,3.5
+26 E Ortega St,True,8Vo6LN9gqULhXzoxj5k6kQ,34.4192463,-119.6970386,The Black Sheep,983,4.5
+539 State St,True,elX9a3nvGMSweRaMWgSb0Q,34.417558,-119.696785,Starbucks,92,3.5
+,False,tarvIQNXuZecIEFay9TpVw,34.42,-119.7,Romanti-Ezer,5,4.5
+31 W Carrillo St,True,-FM4CxOg4XXmX_Ebky_SiQ,34.4203606,-119.7024752,Finch & Fork,1405,4.0
+18 E Ortega St,True,8MoqZqlNN9AXzG91_Hpc_Q,34.4190968,-119.6974545,Dargan's Irish Pub & Restaurant,289,4.0
+"4141 State St, Ste F1",True,vi5xjfEhV6rnXrC_GbdhnA,34.439423,-119.761667,El Rincon Bohemio,87,3.5
+,False,DlCDhT-ovjV7hQywe0YirQ,34.532293138,-119.799686342,The Cookery Catering,5,5.0
+819-B State St,True,NORF647ibBQ4U-VNMgzSLg,34.4196823736,-119.7003016706,Oakberry Açaí Bowls and Smoothies,77,4.5
+324 W Montecito St,True,KTlABGqop4Q7FzD7lSkHJQ,34.4112256,-119.6972939,Santa Cruz Markets,28,4.0
+813 North Hope Ave,False,G2Mdyjts3zs8VKPi0jhLNQ,34.4517363,-119.7468046,Cool Couriers Santa Barbara Delivery Service,5,5.0
+"21 N Milpas St, Ste E",True,WVuSLF5tLVqMGMmj5pn7mw,34.421822,-119.679749,La Michoacana Premier,30,4.0
+1200 Coast Village Rd,False,XscTpOBks1vDNUIwVsZAlA,34.4213456,-119.6444155,Bottle Shop,31,4.0
+3130 State St,True,P_QAD4_iMgqTaWd5On_n3g,34.440696,-119.732304,TAP Thai Cuisine,332,3.5
+"28 Anacapa St, Unit C",True,ouQpkEJnFZzJy86ECkcTzQ,34.4141328,-119.6886894,DV8 Cellars,78,4.5
+222 N Milpas St,False,Iw3lHwjwIjvfsgVOwpF_UQ,34.4250274,-119.6815129,Trader Joe's,47,4.0
+4437 Hollister Ave,False,cbQgU7MxJvyVDROjg-w7yg,34.4396965,-119.7713482,Talevi's Wine & Spirits,12,3.5
+3026 State St,True,TVX2a4bVuCE2VUIkiLdZrQ,34.4406128,-119.729371,Flavor of India,501,4.0
+418 State St,False,Sp4HOjXy-LYV_4yy10L3jg,34.416541,-119.6945756,Modern Times Academy of Recreational Sciences,74,4.5
+1498 E Valley Rd,True,C6AiAF35zwpAoK5jjm-nhA,34.4372898,-119.632278,Montecito Coffee Shop,37,3.5
+236 E Cabrillo Blvd,False,Srt_8c1wZDcFSCsOTbJkiw,34.4140738512,-119.6837493781,Brews at the Beach,12,4.0
+,False,pGtaxpSxxpmqPs6FAR1W_A,34.4216024,-119.698259,A Piece of Cake,12,2.0
+50 Los Patos Way,True,TzNk1TcWLZn0JCpO83hBAA,34.4225035,-119.6580896,Stella Mare's,477,4.5
+"3987 State St, Ste B",True,1kVnChI4aqsPw9i2PVqkkw,34.4394181202,-119.7514181468,Fresco Cafe,278,4.0
+401 Paseo Nuevo,False,c3UA1gYc6VY7dEyS0135pQ,34.4188667227,-119.6986803239,Tondi Gelato,103,5.0
+,False,EcJQ-fvI6ROOcKIu7XEcrQ,34.4208305,-119.6981901,Get Hooked Seafood,10,5.0
+116 Santa Barbara St,True,RRGLss4hhvZZuR0N6GQlSw,34.4157328,-119.6884605,Nook,208,4.0
+"1230 State St, Unit A",False,5uNCvNy9L6peKeKP1RRPyg,34.4242954,-119.7053091,Saigon Vietnamese Restaurant,374,3.5
+431 State St,True,BwUWmUFKCuJ-nN9vFwMt2Q,34.4164228,-119.6954472,Himalayan Kitchen,361,4.0
+500 James Fowler Rd,False,C9_UPkwXYx9B3fxNLkCHgA,34.424872,-119.836485,The Coffee Bean & Tea Leaf,8,3.0
+217 E Anacapa St,True,m4kvY0viCwxqRtgOycnKVQ,34.4154904354,-119.691116675,Mony's Mexican Food,768,4.5
+804 Anacapa St,True,9JHhenxdM20EqmTQba6WyA,34.4213041,-119.6984869,Frequency Wine,61,5.0
+1271 Coast Village Rd,True,h4zjPjFmQgJQzYEXLcHenw,34.4212826,-119.6413255,The Liquor & Wine Grotto,46,5.0
+3860 State St,True,lnGHZ_pEJNGT9pcGQ467Ew,34.4407912,-119.749164,Treehouse Restaurant,52,3.0
+1501 San Andres St,True,ENp_DT0yXdIzdk_O8Ti_kQ,34.4186862,-119.7164965,Foodland,13,3.5
+409 State St,True,kwtKZ3fzM5jlR8Z7KIA17g,34.4159328,-119.6948421,Backstage Dueling Piano Bar,50,5.0
+318 N Milpas St,True,Ak4vFqHZUWU5KXONRnuieQ,34.4249982,-119.6833024,Los Altos Restaurant,166,4.0
+1026 State St,True,f7S0WFDy_J1TGahYhnoMLA,34.4223088,-119.7025471,OPPI’Z Bistro And Natural Pizza,170,4.5
+2908 De La Vina St,True,crlk8kaurC4zrPUTt7BevQ,34.4376929,-119.7269265,Chubbies Hamburgers,143,4.0
+205 W Montecito St,False,ukfAtVvdBD41s-yJ6gOx3w,34.4121276,-119.6954078,Semi Private Chef,12,5.0
+1435 San Andres St,True,2h3SEwpI6fiuTF9mcN1S_Q,34.4185582,-119.7161005,El Zarape,86,4.0
+"137 Anacapa St, Ste B",True,c-W17u2jiFOD2H_d6uo-bQ,34.4147602,-119.690633,Area 5.1 Winery,236,4.5
+8 E Cota St,True,edJoBsse6nsF0BYh6pATAg,34.4179958952,-119.6963100466,The Palace Grill,1500,4.5
+"3849 State St, Ste I157",True,hVKH5oED9NgGaZeIiF547A,34.438921691,-119.7492354843,Backyard Bowls,214,4.0
+126 E Canon Perdido,False,wK2IixmZUOEFGz1QZqR99Q,34.4221614,-119.6986193,Lovejoy's Pickle Room,75,4.0
+1812 Cliff Dr,False,0cWnURpfrb4MqKSzyVN4SQ,34.40171,-119.7212025,Alcazar Tapas Bar,152,4.0
+121 E Yanonali St,False,ddm-u31cWT7Uq097opQUuQ,34.4158054,-119.689906,XO Burger,5,3.5
+117 Harbor Way,True,y4x_wAQvUxvTR8iV-JP4Jg,34.4037491,-119.6935611,On The Alley,504,4.0
+State St & Cota St,False,xotdeLae9P1mHAiJx4D0XQ,34.4177317,-119.696807,Marcie's Pies - Jimenez Family Farm,20,3.0
+728 State St,True,znlrxrY4InSx7ekPZxoHRw,34.4194911,-119.6987739,McConnell's Fine Ice Creams,1537,4.5
+"120 State St, Ste C",False,EtbukcoR6QW6_5fEeFcVoQ,34.4136763536,-119.6910080312,Melville Winery,62,4.0
+,True,pBPfWo_WfHVVkSKD_P3osg,34.4630827,-119.8062912,Lucca Truck,25,5.0
+702 Anacapa St,True,4FdsX3MbkcdBRAr1aymF6A,34.4200396,-119.6968561,La Paloma Cafe,77,4.5
+3957 State St,True,i9ASBmmIJS3RjN_UP-TtKw,34.438884,-119.752446,Starbucks,40,3.0
+1118 E Cabrillo Blvd,False,304FY8qhcOpm9SIkrzmhoQ,34.4170185,-119.6689747,Reunion Kitchen + Drink,61,4.5
+3754 San Remo Dr,False,N12Pwub9Tj-5AhuPfbj-Mg,34.4429887,-119.7453637,Big Joe's Tacos,35,4.5
+1994 Cliff Dr,True,8RlO6NuhWzXktp-1croq5A,34.4024127,-119.7235134,Szechuan Restaurant,234,3.5
+3001 State St,True,6smGb7xv5fDbBsLgW1WC2w,34.440233,-119.728322,Shintori Sushi Factory,185,3.5
+32 Anacapa St,False,MxmcGeTRzLPaTwhDm1txSQ,34.4142112,-119.6887628,Craft Beer Club,20,2.0
+324 West Cabrillo Blvd,True,6EizP0XyqITuGZ8GZMI9Lw,34.408633,-119.693496,Toma Restaurant & Bar,1084,4.5
+3973 State St,True,od_MWVpghkvSsl1HKasM9A,34.4386437791,-119.751798573,Blenders In the Grass,55,4.0
+500 Fowler Rd,True,ssZSQ7HzLFBbm41gWubXKQ,34.4246750982,-119.8362463814,Costa Terraza,46,3.0
+"113 Harbor Way, Ste 180",False,7oPREWTlY8RIMfwT1R0YYw,34.4040037119,-119.6938017,SALTY at the Beach,70,4.0
+416 State St,True,OM5beWRkxZSu1TShUC3EDw,34.4164009433,-119.6945476727,The Drunken Crab,595,4.0
+,False,WkrFxB-p5u8gI0bbbfIUuQ,34.420334,-119.7107494,HelloHarvest,7,5.0
+8301 Hollister Ave,True,ctVn7wMvJX8f4Z9SnOnrHw,34.433341,-119.918381,The Bistro,243,3.5
+1111 E Cabrillo Blvd,False,v1Uesklh8DpEufYOhTq4iA,34.4176898,-119.6685252,Mar Monte Hotel - Hyatt,767,2.5
+1929 Cliff Dr,False,WWoUVlbCdnNT_CQG3S0ZdQ,34.4015682,-119.7234423,The Point Market at Mesa Fuel Depot,28,3.0
+1915 De La Vina St,False,PrJEYGjlhaF0BSZk_Q-uPg,34.4281666112,-119.7164055979,El Pastorcito,5,5.0
+2710 De La Vina St,True,-kfHz1kimX62QEceFkkB_g,34.4359425,-119.7253428,Edomasa,406,3.5
+"1131 State St, Inside Mosaic Locale",False,zZrDoiQIUmiVkifJx0h_KA,34.423056315,-119.7045147385,Old Town Coffee Downtown,8,4.5
+"22 N Milpas St, Ste A",False,O2lFAWD2WXXx5EKkzPutWQ,34.422246,-119.679611,Your Place Thai Restaurant,434,4.0
+500 Ninos Dr,False,pC0vDDpl_2ue3HGAmGpMSg,34.4193410024,-119.6654334405,Ridley-Tree House Restaurant,5,3.0
+361 Hitchcock Way,True,k6Ptrc94R-Mk549pDEVTFA,34.4348633,-119.7460719,The Natural Cafe,164,4.0
+601 W De La Guerra St,True,34PSBuVNmEguXTwmyH5Tcg,34.4130646,-119.7060657,Guadalajara Market,11,2.5
+1501 Residential Services,False,6RBrYMiAf8jFJI4fDoQpcw,34.4096311088,-119.8450326706,De La Guerra Dining Commons,6,3.0
+"113 Harbor Way, Ste 180",False,sCJEbsv0KEsx_IifiFjGDQ,34.4039899,-119.6938017,CHOMP on the Rocks,28,3.5
+"131 Anacapa St, Ste B",False,AV3XPH1iv8PKSO6mrnYgLg,34.4144445,-119.6906718,Pearl Social Santa Barbara,36,4.5
+730 N Milpas St,True,SYHDOHRNAH-2xsw3XB5qbg,34.429169291,-119.6889214927,The Shop Kitchen,1108,4.5
+29 N Milpas St,True,apdwYbDYSOgD89eEa8yDcw,34.4222682567,-119.6802254103,McDonald's,40,2.5
+"35 State St, Ste A",True,EZc2myE2mYk2h9JK9qu8gw,34.412764,-119.6903388,Finney's Crafthouse,1047,4.5
+"3987 State St, Ste D",True,2QaNH5-RCRNIkToUOBc22Q,34.4395144,-119.7516314,La Salsa Fresh Mexican Grill,26,4.0
+4427 Hollister Ave,True,vZG0BDPGDJxMGiXcGoVU6w,34.4397058,-119.7708382,SB Munchiez,182,4.0
+222 W Carrillo St,False,vPv4J9bgh7BDy-p6tAM0ew,34.4190043057,-119.7051945558,CVS Pharmacy,25,2.0
+5097 Hollister Ave,False,Cd-hiDiuj7TFv8b_Nln5aA,34.4345465526,-119.8019228094,The Point Market at Walnut Shell,11,3.5
+619 East Gutierrez St,False,JB5tlC_7u5IHT2Z_GHN-qw,34.4229928,-119.686982,Daily Greenz,8,5.0
+418 State St,True,3rzlcCvPUJ56jvYWl7iGvA,34.416536,-119.694577,Modern Times Kitchen,54,4.5
+2830 De La Vina St,False,zeAfmYy9b1gfUJLRBHm6vQ,34.437063,-119.725682,Presto Pasta,240,4.0
+216 S Milpas St,True,qyXcWGL5-bU_uV2VKxqzTw,34.4191467,-119.6759499,The Habit,164,4.0
+815 E Figueroa St,True,OMWhamtXhqlYCj66MqcxuQ,34.4314498,-119.6938499,Aksum Restaurant,9,5.0
+210 Stearns Wharf,True,Aes-0Q_guDeYewMapFs_vg,34.410291545,-119.6865421917,Longboard's Grill,516,3.0
+4010 Calle Real,False,AAiPARkDNPHR2g7BnmFRUw,34.4414002,-119.7557568,Hi-Time Liquors No 6,6,4.5
+9 W Victoria St,False,tthy48ZIX_wfY8Dy0Dvg6w,34.423983,-119.70586,Bouchon,1452,4.5
+38 W Victoria St,True,49Sy1N3MTnK6Eslh1tgZQQ,34.4236075,-119.7070539,Matty's Hot Chicken,12,3.5
+"1129 State St, Unit A",True,dutm97q2F4a6RV6YQ0uLHw,34.4226114945,-119.7044321379,Crush Bar and Tap,34,5.0
+120 Santa Barbara St,True,lwbFhaGaKUtwPdaXXjy3mQ,34.4158531,-119.6885284,The Waterline,11,4.5
+935 State St,True,sLfc9_WCN0lcTeUIA3X2og,34.42121,-119.701795,Creamistry,153,4.0
+3939 State St,False,OQKKEbPoXqZwSF5CiNWZeQ,34.4394,-119.7532,CVS Pharmacy,58,1.5
+"219 Stearns Wharf, Ste A",True,x8JcV7sAyDN5k9qbnlfGdA,34.4098797,-119.6855073,Great Pacific Ice Cream,122,2.5
+2984 State St,True,oYireVavpwflbyWes2BsqQ,34.4405791,-119.7279897,Pueblo Pollo,5,2.5
+605 N Milpas St,False,SMqSdSAoLP06sWUJ2uXUow,34.4272219,-119.6870801,Chapala Market,16,3.0
+"351 Paseo Nuevo, Fl 2",False,oyJdcjCTGEM2KiGqyJaFwA,34.419119,-119.699798,Workzones,17,5.0
+"5330 Debbie Rd, Ste 200",False,cHDV5cpGcqVwN7K-5aA4zQ,34.4381401,-119.8102029,Gold Medal Wine Club,6,4.5
+129 E Anapamu St,False,BseHdXex5Od2Or_TyUIoWQ,34.425341,-119.7027168,Courthouse Tavern,13,4.0
+1808 Cliff Dr,True,OyFxR5E2HBy-K2-0AxCtFg,34.4015916,-119.7206821,Domino's Pizza,42,2.0
+3302 Mc Caw Ave,True,9h0i4lVC5eCVhRTanWsEAg,34.4385383,-119.7351631,Le Cafe Stella,263,3.5
+4880 Hollister Ave,True,HNACff49-kXS7l0MyLOzHw,34.4365334651,-119.7910648214,Rusty's Pizza Parlor,48,2.5
+1131 State St,True,vgDl4_ZjoLLIU2ZPL83GIg,34.4229213,-119.7044244,Mosaic Locale,18,4.0
+1835 Cliff Dr,False,5iCDjFNkihjzj94Gh0kyIA,34.4012,-119.7218,CVS Pharmacy,24,3.5
+305 W Montecito St,True,ziXR7sUrbKRCNeDqfjibUg,34.4113137,-119.6962919,Rudy's Restaurant No 1,262,4.0
+5 W Canon Perdido,True,bp482wqF6v80AltDNlPDfw,34.420002,-119.700559,The Blue Owl,530,4.5
+,False,DZdGvf67WEG8ZDRM2fLt1w,34.420334,-119.7107494,Explore Wines Tour,48,5.0
+"185 S Patterson Ave, Ste D",True,OzGk7arJv6FPrWqaYSvyKQ,34.4356695,-119.8097733,Choi's Oriental Market,175,4.5
+1017 State St,False,hPzPpfSjgQkpWCD7YjcY-A,34.4216848,-119.7026997,Lilac Pâtisserie,588,4.5
+1111 E Cabrillo Blvd,True,acqDz7WDsCS3WiLxHVceOg,34.4178772027,-119.6693964061,Café Lido,11,3.5
+"38 W Victoria St, Ste 109",True,bPVPZeqMuYtU_yGCb4P-jg,34.4235770706,-119.7070423904,Empty Bowl Gourmet Noodle Bar,705,4.5
+"1187 Coast Village Rd, Ste 5",True,E1b_hNr22N2wGkq5Z9fmHw,34.4207816,-119.6449207,Juice Ranch,21,3.5
+201 W Mission St,True,WhTRPUduXy3mRBYlmSmsKw,34.4283168,-119.7167114,Mission Street Ice Cream and Yogurt - Featuring McConnell's Fine,863,4.5
+,False,OjHy_M9BrUmdJ4L3KCCCWQ,34.420334,-119.7107494,Nimita's Cuisine,28,4.5
+633 E Cabrillo Blvd,True,EWl5aixg4hCcuVYpz4BLKQ,34.417139,-119.6758097,Cafe Los Arcos,10,3.0
+1014 Coast Village Rd,True,VOcGcN0bvGU_nzxbJgR5jQ,34.4225616,-119.6517163,Bettina,311,4.5
+3404 State St,True,PVo1orQ9R7ZHfg90QACh-w,34.4406266,-119.7367796,Your Choice,346,4.0
+3614 State St,True,icGg8xgDJVufg-xptMrDGw,34.4407049,-119.7409102321,Denny's,158,2.5
+3987 State Street,True,v5jxpGnKbx3vVxs28dgokQ,34.4395144,-119.7516314,Saigon Vietnamese Restaurant,192,3.0
+133 E De La Guerra St,False,kSKyOrJELZz_AzGkvnf8MA,34.4218669,-119.6975267,Mattias Blom,27,5.0
+507 State St,True,Xw_5QkLTyIEg6Hs-kXGNbg,34.4167811,-119.6961093,Galanga Thai Restaurant,297,3.5
+428 Chapala St,True,JoD_Fkf2rl3s3Ms5Sfb7uw,34.4156079,-119.6960641,Healthy Warrior Meal Prep,12,5.0
+"2840 De La Vina St, Ste A",False,Q-ZqJY2AXNJIGj-DmlzRuw,34.4376229,-119.7262251,Plaza Liquors,6,2.0
+2912 De La Vina St,True,R_8S3Iuhpzoi3nM-xq3kcw,34.4378527777,-119.7271360056,The Daily Grind,101,3.5
+1070 Coast Village Rd,False,UA3HxLprLSOO9J6l1iR2Cg,34.4218178,-119.6494861,China Palace,205,3.5
+3627 State St,True,rPVmM0aJbC6lU_mnDiZ2Rw,34.4400608,-119.7413536,Tee-Off Restaurant and Lounge,213,4.0
+,False,yFIL4NAyniThUp1ChdmFXw,34.5065566216,-119.70703125,Danny Douglas Catering,19,4.5
+1019 State St,True,s4k1P9FHfPUzw3dqXRp7eA,34.421738,-119.70249,LOKUM Turkish Delight & Baklava,234,4.5
+209 E Canon Perdido St,True,uZYBF0YTU_iKq4_L_PDtMQ,34.4230232,-119.6981912,Zaytoon,1168,4.0
+3430 State St,True,_TEWOkqBWDtNigjujuPQfw,34.440822,-119.7374914,7-Eleven,11,2.5
+"1255 Coast Village Rd, Ste 102A",True,C-zgOpqD2K0xDJU4ty7zKg,34.4210441,-119.6419027,Honor Market,57,4.5
+115 E Haley St,False,WIH1ptTMD7aII_qfeVeaRg,34.418455,-119.69399,El Rincon Alteno,13,4.5
+1435 San Andres St,True,Tc1L4BH_2pkCywkAEfCQRg,34.4185644,-119.7161005,Burger Express,9,4.0
+"1150 Coast Village Rd, Ste E",True,0RxU5OglQyPVtLKC1LPgsA,34.4214078817,-119.64647306,Bree'osh,497,4.5
+127 Anacapa St,True,DOfiulOub9hVPBCtiDl9Fw,34.414643,-119.690235,Lucky Penny,643,4.0
+1936 State St,True,AorcIbAAOJI7z0CBwICwoQ,34.4308414355,-119.7143214941,7-Eleven,11,2.5
+"1114 State St, Ste 14",True,IoihJkcF2FcE-sHOneat-A,34.4229419988,-119.7030299616,Petit Valentien,342,4.0
+138 E Canon Perdido St,True,AzZqXglv_puXwd4kCvM7ew,34.4225063036,-119.69837855,Rudy's,96,4.0
+1990 Cliff Dr,True,soaZ7_oU7xcphlw6gpWblg,34.402329,-119.72339,Starbucks,47,3.0
+3315 State St,True,VAIOtbsxdNmuhUKkQZFRlA,34.4394292,-119.7358901,Renaud's Patisserie & Bistro,524,4.5
+2840 B De La Vina St,False,PBXFaKio7FJ-4JehJGh_gg,34.4376229,-119.7262251,Fattes Pizza,10,4.5
+29 S Milpas St,True,t5igEXKZt4CMtA2FX-GoGA,34.42157,-119.67783,Sprouts Farmers Market,21,4.0
+24 El Paseo,True,S8saWaZlToeNoloR2fMrAQ,34.4201076,-119.6995715,Grassini Family Vineyards,161,4.5
+209 W Carrillo St,False,QFNrQo2BGE62G-FbIlWWgw,34.4189718,-119.7041907,Mels,32,3.5
+633 Chapala St,False,xEjPCUocVTNszm3D39qmYg,34.4172786,-119.6991415,Pura Luna Apothecary & Full Spiral Salon,15,5.0
+900 N Milpas St,True,hdCu74rz33m3EgDmdDn1SA,34.4302489438,-119.6904097293,Dave’s Dogs,53,4.5
+410 Salinas St,False,WxAIpTgD1tK_DgzwQ3Dgww,34.4227267,-119.667963,Mi Fiesta Market Deli,8,2.0
+1260 Channel Drive,False,0m0SQSIzM9WcDhJ7UEVCLQ,34.4172489,-119.6418849,Ty Lounge,32,4.0
+721 Cliff Dr,True,NAWO3P0rl396h0kdRXwuFA,34.406071761,-119.697696361,JSB Cafe at Santa Barbara City College,16,4.0
+25 W Gutierrez St,False,YrNtBUOUOYwmRZ_UVwH8iQ,34.4151276955,-119.6948346064,D'Angelo's Bakery,433,3.5
+1235 State St,True,r5sQtvsO4OVJgEH5H3uEAg,34.424064,-119.70583,Starbucks,73,2.5
+1 Garden St,False,XaClpgO7KFKZSuqBzXDcwA,34.4143027,-119.6871819,Santa Barbara Brewery Tours,6,2.5
+1121 E Montecito St,False,GRqPFmstPY7k8EBxEJ8i4w,34.4270495,-119.6802229,Pennywise Market,12,4.5
+437 State St,True,TCWnTa69sJ3vGQsdEe3Esw,34.4165849,-119.6955333,Uncle Roccos Famous NY Pizza,317,2.5
+2001 State St,True,7wSnkgOORRCqVDa_n8Upxg,34.4308351,-119.7149595,Garrett's Old Fashioned Restaurant,510,4.0
+"131 Anacapa St, Ste A",False,oGDGlUbOjHxmmCh8ZYcDCg,34.4148777,-119.690279,The Lark,1520,4.0
+1026 Santa Barbara St,False,mdI-2l7dlqcODbVNIWEQBQ,34.424470875,-119.700198435,Matilija Pure Water Systems,24,3.5
+311 Castillo St,False,efySo0N7XEp4IeefjX8Muw,34.4106813,-119.6979196,JJ's Liquor,12,2.5
+21 N Milpas St,True,pUeTnGsnVi-H8RJ6prFFgw,34.4218168,-119.67975,Little Caesars Pizza,24,2.0
+"131 Anacapa St, Ste C",False,FrxcwylzrO-ZnzxtiyUdDg,34.4145048366,-119.6906389478,Santa Barbara Wine Collective,83,4.0
+12 Helena Ave,False,kBqyg_L_Xn9jQTCHYODbRg,34.4131241,-119.6889529,Skyenna Wine Lounge,90,5.0
+914 Santa Barbara St,True,8_r9EZL6vX5fPBoVh3gUrA,34.4232341,-119.698741,La Playa Azul Cafe,318,4.0
+"137 Anacapa St, Ste F",True,v4lz71o76wWD8H15NsbZGA,34.4146284148,-119.6907882741,Figueroa Mountain Brewing Co.,425,4.0
+29 E Cabrillo Blvd,True,Y57sylYCgq2VQJuBCnjPfA,34.413204,-119.688437,Oku,429,4.0
+113 W De La Guerra St,True,XgehM3pBZWuXi45J2dqRJQ,34.4178719,-119.7007018,Green Table,319,4.5
+3301 State St,False,WC53Z0z4g1wauYe3xnhSGQ,34.4400189,-119.7347994,7 Day Nursery,30,4.0
+813 Anacapa St,True,fqStx0SvwMFChX_HIdUeEQ,34.421130437,-119.6990534572,Wine Cask,322,4.0
+607 State St,True,WrU1ZYN4jlYcL5mvJrQsCQ,34.4179179487,-119.6971540715,Night Lizard Brewing Company,133,4.5
+22 Anacapa St,False,bf32KWp9yvN-WT8c-QtbzA,34.4140355,-119.6885284,Municipal Winemakers,260,4.5
+1936 State St,True,04Ss49U_QKYLotcJMAH8cA,34.430741422,-119.7142658272,Ike’s Love & Sandwiches,97,4.0
+1208 State St,True,LuPK46HMxRYEVTXVbBCR1g,34.4237005,-119.7046377,Sama Sama Kitchen,477,4.0
+1000 1/2 E De La Guerra St,False,spm1KEE-5jAJVTE0ldpzFA,34.430218,-119.6875202,Sweet creams,6,4.0
+150 S La Cumbre Rd,False,w9fhhGNDCSub7WiQqcixeg,34.4380488334,-119.7506278753,Conserv Fuel,12,3.5
+36 A S Calle Cesar Chavez,False,QcMPEiTXY2wS5dKZdzIW0w,34.4174659791,-119.681281756,Whitcraft Winery,34,4.0
+600 Olive St,True,HOXbILWYZJkNUYYzYK_tZA,34.4232597,-119.691138,Arnoldi's Cafe,291,4.0
+1109 State St,False,FNT8JRNUh841qOvKhCC1NQ,34.4224360805,-119.7039661022,CVS Pharmacy,25,2.0
+430 State St,True,wb6rAxDPWP_5AAl3CKCM1w,34.4167934,-119.6950827,Insomnia Cookies,75,3.5
+600 N Milpas St,True,yPSejq3_erxo9zdVYTBnZA,34.4274939,-119.686624,Los Agaves,3834,4.5
+"38 W Victoria St, Ste 101",False,EoLzj1yciIjEZS9ZEJe_kQ,34.4236075,-119.7070539,The Garden,85,3.0
+415 E De La Guerra St,True,5Z3uvoIoOFUzTmrBmIJv2g,34.4242963341,-119.6947383508,Nona's Italian Deli,37,3.0
+,False,j6F0mMGgp4THEAzhylPrGQ,34.433094,-119.6817845,Slate Catering,6,5.0
+536 State St,True,nB0dV8yPv29F3-CFMPG8cw,34.4179009,-119.6964428,Joe's Cafe,726,3.5
+827 Santa Barbara St,False,sHpxBos5-7GNkaMDZ3fnGA,34.422317,-119.698081,Cheese Shop Santa Barbara,5,5.0
+1315 Anacapa St,True,UuRZpgZsHX7PyykHV3wbZg,34.4257198484,-119.7052413177,Crushcakes & Cafe,761,4.0
+"27 West Anapamu St, Ste 104",False,NDwoKO79_T49UEKVDlHd3A,34.4224525,-119.7050212,Sustainable Wine Tours,358,5.0
+11 Anacapa St,True,AXC__4yZrn-N3BT7-2bV_Q,34.41339,-119.68894,Biergarten,104,4.0
+1282 Coast Village Rd,False,011vcXzrmB86rXoVwCJiJw,34.4218,-119.6409120667,CVS Pharmacy,23,2.0
+"22 N Milpas St, Ste B",True,mYofSuxrIrPS2Gjsu-ZI4w,34.4223935,-119.6794433,Eller's Donut House,47,4.5
+"813 Anacapa St, Ste 5B",False,mwsA08gpaEALG3C1ZI4ktw,34.4207835,-119.6993168,Au Bon Climat Winery,82,4.0
+38 W Victoria St,True,wxdpQV7CZHn6_DFr-JGUgw,34.4235962,-119.7066283,Rori's Artisanal Creamery,289,4.5
+632 Santa Barbara St,True,kbWKwvLXfJm5sLVfw-Foww,34.4208061,-119.6953852,Jill's Place,325,4.0
+1482 E Valley Rd,False,edDmC1Zcr5SVczbKBfiXqw,34.438242,-119.633683,Montecito Village Grocery,25,3.0
+4898 Hollister Ave,True,2YnQAJdeFrcgPa8MqIYcDg,34.4366192418,-119.7917363642,Cody's Cafe,294,3.5
+5154 Hollister Ave,False,uwVKlJUxamf9NsDt0L1RuA,34.434964,-119.8036934,Lassens Natural Foods & Vitamins,22,2.5
+532 State St,True,WUGRmrfSzQCyeG6mYAM-vw,34.417615806,-119.6963456931,Yona Redz,125,4.5
+149 S Turnpike Rd,True,_ecVi-tVoaKHKYxNkxFj7w,34.4377701,-119.789718,Dave's Dogs Grill,365,4.5
+432 E Haley St,True,8Lbz0hfE4MWzd7yDu9atBA,34.4217441,-119.689904,Uncorked Wine Tasting and Kitchen,146,5.0
+410 N Quarantina St,False,Tw5tderBUFzj7fRLVZm2Bg,34.4236787312,-119.6865684787,Pure Order Brewing,82,4.5
+2018 Cliff Dr,False,u9oG6CVhS9dJR5ZHS5q23A,34.4021549,-119.7248996,The Little Things Bakery,127,4.5
+1180 University Ctr,True,KIpghikMrBbxx75tx_ZJUw,34.411595,-119.848143,Starbucks,13,3.0
+715 Chapala St,True,k1XGvBoPAXdPoGC2W-f2aA,34.4178811,-119.6999881,Kanaloa Seafood,225,4.0
+1202 Chapala St,True,B_q2xoAgTyn6U4YNEc3kSw,34.422519,-119.7057271,China Pavilion,348,3.5
+1840 Cliff Dr,True,w79qtK0PpeDWrnY7E-uTRg,34.402339,-119.721921,Taco Bell,28,3.5
+18 E Cota St,False,UQZe-qWOpGiyEPsTUko5Rg,34.4182166,-119.6961201,Rascal's Vegan Food,25,4.5
+,True,nx01nL2of3ngBwA6XZYqEg,34.4076974609,-119.6926867962,Hotdog Mini Mart,5,4.5
+515 State St,True,i5C6RVgr03HSrgCl8oa1Fg,34.417115,-119.696243,Patxi's Pizza,730,4.0
+701 Bath St,False,E451ihy72tsLMAxbpPa0WQ,34.4154595,-119.7016646,Little Corner Store,11,4.0
+3445 State St,False,EwaakynaS06R64xY8xM57g,34.440315,-119.738162,BYOB! Brew Your Own Beverage,9,4.5
+1106 State St,True,Ss6f5v_t5Vddiaz4ZOxL0g,34.422719,-119.703303,Andersen's Danish Bakery & Restaurant,1106,4.0
+1905 Cliff Dr,True,-BdYhP-12elmFV7oB1iv4A,34.4013817,-119.7224721,Corner Tap Room,41,5.0
+423 State St,False,ty7akyarO89CLNFjArzLMQ,34.416216823,-119.6951589,Music Alley,7,4.0
+,False,uGT2BZKB3t8Fi6vFTyM7zg,34.42,-119.7,Jessica Foster Confections,19,4.5
+515 N Milpas St,True,Gl3XO4ECKKli8-bKKdkkYA,34.4265851783,-119.6860595043,KFC,36,2.0
+117 W De La Guerra St,False,TI3Rydw47yBMzY1oW2wJUg,34.4178715,-119.7008868,Elsie's,152,4.0
+53 S Milpas St,True,YgbIbmfDlB-bZSsjuIfKwA,34.421271,-119.677216,Jack's Bistro and Famous Bagels,219,3.5
+1976 Cliff Dr,False,VrQUskWkEnvKyyz_OkJZEg,34.402366,-119.72309,Rite Aid,18,3.0
+23 E De La Guerra St,True,QBNATcq7Stx9LxcSq16W7w,34.420418,-119.698904,Jamie Slone Wines,210,4.5
+220 Stearns Wharf,True,MJI-bNIn3QDgiGggm9Wp1w,34.4092096,-119.6854512,Moby Dick Restaurant,871,3.0
+3025 De La Vina St,False,Kthnb7PjDSd7FsBp4wqoHA,34.4389627,-119.728949,Trader Joe's,85,4.5
+"11 W Victoria St, Ste 21",True,4D7QDfPOsSPfKxBi3gs_qQ,34.4238136,-119.7060451,Olio Pizzeria,622,4.0
+800 El Bosque Rd,False,BensdYRuR-zra1g3nBJFXQ,34.445018,-119.623996,La Casa De Maria,12,4.5
+418 State St,True,JiBxL733qjm8WAddu-RzDQ,34.4164012651,-119.6946343303,Broad Street Oyster Company,71,5.0
+220 Gray Ave,True,kpP2NhrCEabTWk9kfZdLbw,34.4163545,-119.6905232,Shalhoob’s Butcher Shop,62,4.5
+2720 De La Vina St,False,Y0izXh4Dv1_YU68tn43Xiw,34.4364214,-119.7255464,Handlebar Coffee Roasters,221,4.5
+1260 Channel Drive,False,l-rGtJt0E7PAklT0IK7oFQ,34.4173394,-119.64204,Four Seasons Resort The Biltmore Santa Barbara,508,4.5
+5342 Hollister Ave,False,qZb4ltF4lJxmzCm7IK_E1w,34.435452,-119.8105801,Plow to Porch,9,4.5
+2840 De La Vina St,False,EA4v61tJCHg8xhk7bqn8Yw,34.437485,-119.726,Grocery Outlet Bargain Market,32,4.5
+600 State St,False,YnC3GioeL6aVCFD3ut2hYw,34.4180054,-119.6966838,Tuesday Farmer's Market,11,4.5
+"4317 State St, Ste A",True,xGaYXbXGwagUKPNEaVqbWw,34.4402476,-119.766991,Eller's Doughnut House & Bakery,71,3.0
+428 East Haley St,True,alzPS7bo3yp3yystK62g2g,34.4217034096,-119.690114577,Twenty-Four Blackbirds Chocolates,20,5.0
+36 State St,True,B1yPXzIIJrLWyTcE4jsYuQ,34.4134723455,-119.6906522184,Goat Tree,311,3.5
+2981 Cliff Dr,True,skY6r8WAkYqpV7_TxNm23w,34.4032573848,-119.7437518546,Boathouse at Hendry's Beach,2536,4.0
+1436 Chapala St,True,gjCxTVItFxk46rCZ-YaiFA,34.425067369,-119.7091551212,South Coast Deli- Chapala,340,4.5
+4444 Hollister Ave,True,wMZAnrfwV-qHiV5zdTSrzw,34.4400581,-119.7717886,The Creekside Restaurant & Bar,296,4.0
+1221 State St,True,fiQxkb1pfPpvrr0oYYYBcA,34.4237871609,-119.7052807747,The Daisy Restaurant,98,5.0
+24 W Figueroa St,True,BErYojCJSO959vzaz9JclQ,34.4219321,-119.7040745,Savoy Cafe & Deli,571,4.5
+101 W Carrillo St,False,9mFXgiTMa-mdaqmxA41t6A,34.4199297,-119.7029883,The Point Market,10,3.5
+36 State St,False,xRapA2lG7mjJ6eOqHmxe-A,34.4132794,-119.6898862,Blackbird,155,4.0
+3343 State St,True,54oLdsGU9B8HxFTqCCqV-A,34.4400762121,-119.7363232264,Via Maestra 42,589,4.5
+830 N Milpas St,True,r8tU21scBflMxWiBESPtRQ,34.4300129035,-119.689825556,Shang Hai,200,4.5
+15 East Figueroa St,True,3tvi-OJ_-iK1ecjzSaH-oA,34.4233020318,-119.7028496606,Hook And Press Donuts,217,4.5
+,False,q2Ao2HQyhvcT9UG-5-ZGYg,34.420334,-119.7107494,Captain Jack's Tours & Events,310,4.5
+3232 State St,True,fApb6LKfOdy5u7MP0hsHKg,34.4406669,-119.7338492,Kyoto,260,3.5
+,False,tzR6CHZNmnXzADX-SoM2sQ,34.4208305,-119.6981901,Grapeline Wine Tours,112,5.0
+"219 Stearns Wharf, #B",False,9dYarThtZVX4PvmtnFIrxA,34.4098797,-119.6855073,Mother Stearns Candy,41,3.0
+824 Reddick St,False,PtaFDKkhxSjcXz6dVM0uLw,34.4253387,-119.6849868,Deux Bakery,48,4.5
+,False,aZF_j037W3AhvKKbXGdIQw,34.420334,-119.7107494,Violette Bakeshop,15,5.0
+141-153 Harbor Way,False,2GiqDUNiTt5__ixRbzbqFw,34.4035193575,-119.6938347816,Santa Barbara Harbor & Seafood Festival,22,4.5
+38 W Victoria St,False,6m4A_ciUZn1G302yx1YV1w,34.4236050501,-119.7069126141,Santa Barbara Public Market,270,4.0
+22 W Mission St,False,eanjvgtX8b-m_zgkO0YBDg,34.4304998,-119.7156407,Tamara's Catering,19,4.5
+2973 State St,False,kcL3D2xK9_1Uyj8zRZMyvQ,34.4395650805,-119.7278689727,CVS Pharmacy,66,2.0
+100 W Carrillo St,True,c12V0ARL6jmrmge1ZPf9WA,34.4199481,-119.7041816,Ralphs Fresh Fare,112,2.0
+"512 Laguna St, Ste A",False,dkknmgSHWyVaahT8u4ikZw,34.4217208,-119.6911655,Catering Connection,48,5.0
+202 State St,False,KSYONgGtrK0nKXfroB-bwg,34.4142041115,-119.6916435799,Loquita,914,4.5
+1919 Cliff Dr,True,GuzbBFraIq-fbkjfvaTRvg,34.4013485,-119.7230803,Mesa Verde,1796,4.5
+3558 State St,True,ODvaMIpjD6bHiwQ9-kmECw,34.4404899,-119.7398757,Vices & Spices From Around the World,81,4.5
+2611 De La Vina St,True,q-1ICFSqs2MwDGfe5tX-SQ,34.4348537,-119.7247287,Yellow Belly,337,4.0
+"38 W Victoria St, Ste 119",True,yM7eA2uuH3Ch7OYVj3PKSw,34.42369048,-119.7072449468,Wabi Sabi,82,4.5
+1909 Cliff Dr,True,wAPXYljzn9YDTvQqqL54pw,34.401295229,-119.7227677703,7-Eleven,8,3.0
+605 Paseo Nuevo,True,-nwNPb3G-0L95igrhkvMtw,34.4187220772,-119.7001659,Panda Express,46,2.5
+821 N Milpas Street,True,PsO9LleYQJlFc_r-DJxVzg,34.429167,-119.689368,Taco Bell,30,3.5
+"315 Meigs Rd, Ste F",True,QLHgjBHBoeIUoEvIPvjHnw,34.4007984,-119.7226708,Mesa Burger - Santa Barbara,442,4.0
+901 E Cabrillo Blvd,True,Qkg16mN-8QR66gjzg6gMyw,34.417321,-119.6722259521,Convivo Restaurant and Bar,445,4.0
+"38 W Victoria St, Ste 104",True,T_TX4Lx03Juo4pHF5cMYuA,34.4236075,-119.7070539,Ca'Dario Pizzeria Veloce,34,3.0
+"811 State St, unit E",True,fVUurZgbWXzp2QzDzJzmpA,34.419601612,-119.7001503728,Pickles & Swiss,1213,4.5
+724 E Haley St,True,vyOVT4bcW227LRwJGHTeSw,34.4246414,-119.686693,Buena Onda,414,5.0
+416 E Micheltorena St,False,HKHz6u48Qgftwk_VRkLqSA,34.4307771,-119.7031754,Riviera Market & Liquor,12,5.0
+"1255 Coast Village Rd, Ste 101",False,r2IhvKZQ_wLR5mLBnPOilg,34.4210441,-119.6419027,The Honor Bar,557,4.5
+730 N Milpas St,True,U1Gc3wKN5viu_e68KJVOdQ,34.4291091,-119.6887154,Wingman Rodeo - Milpas Street,147,4.0
+617 N Milpas St,True,Qsoq2TGOe59LZy7z6KbQjA,34.4275624,-119.687371,Domino's Pizza,56,1.5
+177 S Turnpike Rd,True,hDr_bt6MEwlGvGCCKzyzhg,34.437516711,-119.7909391846,Goleta Coffee Co and Loca Vivant Kitchen,187,4.0
+2819 State St,True,HrnSaz2f1WUEoAQQ6iD6gw,34.4382259301,-119.7250353901,Lemon Tree Inn,270,2.5
+712 N Milpas St,True,Hlx8S2GLF7hMuIKx4sU-gg,34.4285995,-119.6882227,Cesar's Place,117,4.0
+1134 Chapala St,True,bVaRZDHkWdsHuARGxxpREw,34.422291,-119.705339,Sushi Bar 29,97,4.5
+3052 State St,True,eneANX6b3SuFqxvRIb4yeg,34.4406804,-119.7303602,Bev Mo,37,3.0
+5 W Haley St,False,izSgTrqebu8bN8ONOCs6cQ,34.4165478074,-119.6956258296,Oat Bakery,123,5.0
+,True,IRBhPAC4ZoDpXazpoB3epQ,34.420334,-119.7107494,Good Stuff Baked Treats,9,5.0
+2012 De La Vina St,False,Bo-GGwQNcLVwyKeYkbfAYg,34.4291544,-119.7172224,Vino Divino,19,5.0
