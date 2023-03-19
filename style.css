@@ -36,6 +36,14 @@ h3{
 }
 
 
+#map {
+    height: 500px;
+    width: 100%;
+    margin: auto;
+}
+
+
+
 /* Clear floats after the columns */
 
 line {
@@ -57,4 +65,3 @@ circle:hover{
   stroke: purple;
   stroke-width: 4;
 }
-

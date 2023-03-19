@@ -1,3 +1,15 @@
+let map;
+
+window.initMap = function() {
+    map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 34.45, lng: -119.7 },
+            zoom: 12,
+    })
+};
+
+window.initMap = initMap
+
+
 const frame_height = 500;
 const frame_width = 700;
 const margins = {left: 34, right: 30, top: 30, bottom: 30};
@@ -14,7 +26,7 @@ function transform_lat(coord) {
 
 //Scatterplot frame
 const FRAME1 =
-d3.select("#scatter")
+d3.select("#map")
     .append("svg")
         .attr("height", frame_height)
         .attr("width", frame_width)
@@ -32,7 +44,6 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
 
     // Creates the y scale
     const MAX_Y = d3.max(data, (d) => {return transform_lon(parseFloat(d.longitude));});
-    console.log(MAX_Y)
     const Y_SCALE = d3.scaleLinear()
         .domain([5.8, MAX_Y + .1])
         .range([frame_height - margins.top - margins.bottom, 5.8]);
