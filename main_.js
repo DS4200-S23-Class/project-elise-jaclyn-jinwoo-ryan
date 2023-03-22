@@ -26,11 +26,13 @@ window.initMap = function() {
 
 };
 
+// Frame constants for the bar chart
 const frame_height = 500;
 const frame_width = 350;
 const margins = {left: 34, right: 30, top: 30, bottom: 30};
 const review_color = {"1 star": "#E92E1F", "2 star": "#E9931F", "3 star": "#DAE91F", "4 star": "#75E91F", "5 star": "#1FE92E"};
 
+// Creates a frame for the bar chart
 const FRAME2 =
 d3.select("#vis2")
     .append("svg")
@@ -38,12 +40,13 @@ d3.select("#vis2")
         .attr("width", frame_width)
         .attr("class", "frame");
 
-//bar chart time
+// Fills the bar chart with data from the csv
 d3.csv("data/yelp_business_clean.csv").then((data) => {
 
-//for later to iterate colors through hard coded bar qty
+	//for later to iterate colors through hard coded bar qty
     colors = d3.scaleOrdinal(Object.values(review_color));
 
+    // Generates a set of scales for the x and y axes
     const y_scale =
     d3.scaleLinear()
         .domain([0, (100)])
@@ -71,6 +74,7 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
                 .ticks(10)
             );
 
+    // Adds to the correct bar for each restaurant
     Object.entries(review_color).forEach(entry => {
         const [key, value] = entry;
             FRAME2.append("rect")
@@ -92,26 +96,31 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
         .text("Reviews")
         .attr("class", "title");
 
+    // Creates a tooltip for the bar chart
     const tooltip =
     d3.select("#vis2")
         .append("div")
             .attr("class", "tooltip")
             .style("opacity", 0);
 
+    // Shows the tooltip when the mouse moves over a bar
     function handleMouseover(event, d) {
         tooltip.style("opacity", 1);
     }
 
+    // Updates the tooltip with the correct information
     function handleMousemove(event, d) {
         tooltip.html("Most Recent Review of this Rating: MM/DD/YY")
             .style("left", (d.pageX + 10) + "px")
             .style("top", (d.pageY + 50) + "px");
     }
 
+    // Hides the tooltip when the mouse leaves a bar
     function handleMouseleave(event, d) {
         tooltip.style("opacity", 0);
     }
 
+    // Attaches event handlers to all the bars
     FRAME2.selectAll(".bar")
         .on("mouseover", handleMouseover)
         .on("mousemove", handleMousemove)
