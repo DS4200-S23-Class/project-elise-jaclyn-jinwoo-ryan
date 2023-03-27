@@ -40,8 +40,16 @@ d3.select("#vis2")
         .attr("width", frame_width)
         .attr("class", "frame");
 
+
 // Fills the bar chart with data from the csv
 d3.csv("data/yelp_business_clean.csv").then((data) => {
+    console.log(data[0]["stars"].split(", "));
+    const star_counts = {"1 star": (parseInt(data[0]["stars"].split(", ")[0])),
+                    "2 star": (parseInt(data[0]["stars"].split(", ")[1])),
+                    "3 star": (parseInt(data[0]["stars"].split(", ")[2])),
+                    "4 star": (parseInt(data[0]["stars"].split(", ")[3])),
+                    "5 star": (parseInt(data[0]["stars"].split(", ")[4]))};
+    console.log(star_counts);
 
 	//for later to iterate colors through hard coded bar qty
     colors = d3.scaleOrdinal(Object.values(review_color));
@@ -49,7 +57,7 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
     // Generates a set of scales for the x and y axes
     const y_scale =
     d3.scaleLinear()
-        .domain([0, (100)])
+        .domain([0, 500])
         .range([(frame_height - margins.bottom), 0]);
 
     const x_scale =
@@ -75,13 +83,13 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
             );
 
     // Adds to the correct bar for each restaurant
-    Object.entries(review_color).forEach(entry => {
+    Object.entries(star_counts).forEach(entry => {
         const [key, value] = entry;
             FRAME2.append("rect")
                 .attr("transform", "translate(" + margins.left +  ")")
                 .attr("x", (x_scale(key)))
-                .attr("y", (y_scale(50)))
-                .attr("height", ( frame_height - y_scale(50) - margins.bottom))
+                .attr("y", y_scale(value))
+                .attr("height", ( frame_height - y_scale(value) - margins.bottom))
                 .attr("width", x_scale.bandwidth() - 5)
                 .attr("class", "bar")
                 .attr("id", key);
