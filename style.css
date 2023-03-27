@@ -76,3 +76,7 @@ circle:hover{
     border-style: solid;
     border-color: black;
 }
+
+svg{
+    font-size: 40px;
+}

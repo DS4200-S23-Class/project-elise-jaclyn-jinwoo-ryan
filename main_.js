@@ -27,9 +27,9 @@ window.initMap = function() {
 };
 
 // Frame constants for the bar chart
-const frame_height = 500;
-const frame_width = 350;
-const margins = {left: 34, right: 30, top: 30, bottom: 30};
+const frame_height = 700;
+const frame_width = 700;
+const margins = {left: 100, right: 100, top: 100, bottom: 100};
 const review_color = {"1 star": "#E92E1F", "2 star": "#E9931F", "3 star": "#DAE91F", "4 star": "#75E91F", "5 star": "#1FE92E"};
 
 // Creates a frame for the bar chart
@@ -99,9 +99,9 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
         .attr("fill", (d,i) => {return colors(i)});
 
     FRAME2.append("text")
-        .attr("x", ((frame_width/2) - (margins.right/2)))
+        .attr("x", ((frame_width/2) - (margins.right)))
         .attr("y", (margins.top))
-        .text("Reviews")
+        .text("Review Distribution")
         .attr("class", "title");
 
     // Creates a tooltip for the bar chart
@@ -133,7 +133,6 @@ d3.csv("data/yelp_business_clean.csv").then((data) => {
         .on("mouseover", handleMouseover)
         .on("mousemove", handleMousemove)
         .on("mouseleave", handleMouseleave);
-
 });
 
 
