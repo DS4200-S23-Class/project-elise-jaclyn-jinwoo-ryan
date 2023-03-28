@@ -15,124 +15,141 @@ window.initMap = function() {
 		let marker = new google.maps.Marker({
 			map,
 			position: { lat: parseFloat(data.latitude), lng: parseFloat(data.longitude) },
-			title: data.stars
+			title: data.name
 		});
 
 		// Adds a listener to each marker
 		marker.addListener("click", () => {
-      		console.log(data)
-    	});
+			load_bar(data.business_id)
+		});
 	});
 
 };
 
 // Frame constants for the bar chart
-const frame_height = 700;
-const frame_width = 700;
+const frame_height = 500;
+const frame_width = 500;
 const margins = {left: 100, right: 100, top: 100, bottom: 100};
 const review_color = {"1 star": "#E92E1F", "2 star": "#E9931F", "3 star": "#DAE91F", "4 star": "#75E91F", "5 star": "#1FE92E"};
 
-// Creates a frame for the bar chart
-const FRAME2 =
-d3.select("#vis2")
-    .append("svg")
-        .attr("height", frame_height)
-        .attr("width", frame_width)
-        .attr("class", "frame");
+function load_bar(id) {
+	// Deletes the graph if it exists
+	d3.select("#vis2").selectAll("*").remove();
+
+	// Creates a frame for the bar chart
+	const FRAME2 =
+	d3.select("#vis2")
+	.append("svg")
+	.attr("height", frame_height)
+	.attr("width", frame_width)
+	.attr("class", "frame");
 
 
-// Fills the bar chart with data from the csv
-d3.csv("data/yelp_business_clean.csv").then((data) => {
-    console.log(data[0]["stars"].split(", "));
-    const star_counts = {"1 star": (parseInt(data[0]["stars"].split(", ")[0])),
-                    "2 star": (parseInt(data[0]["stars"].split(", ")[1])),
-                    "3 star": (parseInt(data[0]["stars"].split(", ")[2])),
-                    "4 star": (parseInt(data[0]["stars"].split(", ")[3])),
-                    "5 star": (parseInt(data[0]["stars"].split(", ")[4]))};
-    console.log(star_counts);
+	// Fills the bar chart with data from the csv
+	d3.csv("data/yelp_business_clean.csv").then((data) => {
 
-	//for later to iterate colors through hard coded bar qty
-    colors = d3.scaleOrdinal(Object.values(review_color));
+		// Gets the correct star list for the graph
+		let stars;
+		data.forEach( function(i) {
+			if (i["business_id"] == id) {
+				stars = i["stars"]
+			}
+		});
 
-    // Generates a set of scales for the x and y axes
-    const y_scale =
-    d3.scaleLinear()
-        .domain([0, 500])
-        .range([(frame_height - margins.bottom), 0]);
+		// Converts the star list to a dict
+		stars = stars.split(", ");
+		const star_counts = {"1 star": (parseInt(stars[0].substr(1))),
+		"2 star": (parseInt(stars[1])),
+		"3 star": (parseInt(stars[2])),
+		"4 star": (parseInt(stars[3])),
+		"5 star": (parseInt(stars[4].substr(0, stars[4].length - 1)))};
 
-    const x_scale =
-    d3.scaleBand()
-        .domain(Object.keys(review_color))
-        .range([0, (frame_width - margins.right), 0]);
+		// Finds the max value of the star count
+		let max_star = Math.max(star_counts["1 star"], star_counts["2 star"], star_counts["3 star"],
+			star_counts["4 star"], star_counts["5 star"])
 
-    FRAME2.append("g")
-        .attr("transform", "translate(" + margins.left + ")")
-        .call(
-            d3.axisLeft()
-                .scale(y_scale)
-                .ticks(10)
-           )
-            .attr("font-size", "20px");
+		//for later to iterate colors through hard coded bar qty
+		colors = d3.scaleOrdinal(Object.values(review_color));
 
-    FRAME2.append("g")
-        .attr("transform", "translate(" + margins.left + "," + (frame_height - margins.bottom) + ")")
-        .call(
-            d3.axisBottom()
-                .scale(x_scale)
-                .ticks(10)
-            );
+    	// Generates a set of scales for the x and y axes
+		const y_scale =
+		d3.scaleLinear()
+		.domain([0, max_star + 1])
+		.range([(frame_height - margins.bottom), margins.top]);
 
-    // Adds to the correct bar for each restaurant
-    Object.entries(star_counts).forEach(entry => {
-        const [key, value] = entry;
-            FRAME2.append("rect")
-                .attr("transform", "translate(" + margins.left +  ")")
-                .attr("x", (x_scale(key)))
-                .attr("y", y_scale(value))
-                .attr("height", ( frame_height - y_scale(value) - margins.bottom))
-                .attr("width", x_scale.bandwidth() - 5)
-                .attr("class", "bar")
-                .attr("id", key);
-    });
+		const x_scale =
+		d3.scaleBand()
+		.domain(Object.keys(review_color))
+		.range([0, (frame_width - margins.right), 0]);
 
-    FRAME2.selectAll(".bar")
-        .attr("fill", (d,i) => {return colors(i)});
+		FRAME2.append("g")
+		.attr("transform", "translate(" + margins.left + ")")
+		.call(
+			d3.axisLeft()
+			.scale(y_scale)
+			.ticks(5)
+			)
+		.attr("font-size", "20px");
 
-    FRAME2.append("text")
-        .attr("x", ((frame_width/2) - (margins.right)))
-        .attr("y", (margins.top))
-        .text("Review Distribution")
-        .attr("class", "title");
+		FRAME2.append("g")
+		.attr("transform", "translate(" + margins.left + "," + (frame_height - margins.bottom) + ")")
+		.call(
+			d3.axisBottom()
+			.scale(x_scale)
+			.ticks(10)
+			);
 
-    // Creates a tooltip for the bar chart
-    const tooltip =
-    d3.select("#vis2")
-        .append("div")
-            .attr("class", "tooltip")
-            .style("opacity", 0);
+    	// Adds to the correct bar for each restaurant
+		Object.entries(star_counts).forEach(entry => {
+			const [key, value] = entry;
+			FRAME2.append("rect")
+			.attr("transform", "translate(" + margins.left +  ")")
+			.attr("x", (x_scale(key)))
+			.attr("y", y_scale(value))
+			.attr("height", ( frame_height - y_scale(value) - margins.bottom))
+			.attr("width", x_scale.bandwidth() - 5)
+			.attr("class", "bar")
+			.attr("id", key);
+		});
 
-    // Shows the tooltip when the mouse moves over a bar
-    function handleMouseover(event, d) {
-        tooltip.style("opacity", 1);
-    }
+		FRAME2.selectAll(".bar")
+		.attr("fill", (d,i) => {return colors(i)});
 
-    // Updates the tooltip with the correct information
-    function handleMousemove(event, d) {
-        tooltip.html("Most Recent Review of this Rating: MM/DD/YY")
-            .style("left", (d.pageX + 10) + "px")
-            .style("top", (d.pageY + 50) + "px");
-    }
+		FRAME2.append("text")
+		.attr("x", ((frame_width/2) - (margins.right)))
+		.attr("y", (margins.top))
+		.text("Review Distribution")
+		.attr("class", "title");
 
-    // Hides the tooltip when the mouse leaves a bar
-    function handleMouseleave(event, d) {
-        tooltip.style("opacity", 0);
-    }
+    	// Creates a tooltip for the bar chart
+		const tooltip =
+		d3.select("#vis2")
+		.append("div")
+		.attr("class", "tooltip")
+		.style("opacity", 0);
 
-    // Attaches event handlers to all the bars
-    FRAME2.selectAll(".bar")
-        .on("mouseover", handleMouseover)
-        .on("mousemove", handleMousemove)
-        .on("mouseleave", handleMouseleave);
-});
+    	// Shows the tooltip when the mouse moves over a bar
+		function handleMouseover(event, d) {
+			tooltip.style("opacity", 1);
+		}
 
+    	// Updates the tooltip with the correct information
+		function handleMousemove(event, d) {
+			tooltip.html("Most Recent Review of this Rating: MM/DD/YY")
+			.style("left", (d.pageX + 10) + "px")
+			.style("top", (d.pageY + 50) + "px");
+		}
+
+    	// Hides the tooltip when the mouse leaves a bar
+		function handleMouseleave(event, d) {
+			tooltip.style("opacity", 0);
+		}
+
+    	// Attaches event handlers to all the bars
+		FRAME2.selectAll(".bar")
+		.on("mouseover", handleMouseover)
+		.on("mousemove", handleMousemove)
+		.on("mouseleave", handleMouseleave);
+	});
+}
 

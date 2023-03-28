@@ -20,12 +20,12 @@ h3{
   display: table;
   clear: both;
 }
-.column1 {
+.col1 {
   float: left;
   width: 60%;
 }
 
-.column2 {
+.col2 {
   float: right;
   width: 40%;
 }
@@ -37,9 +37,15 @@ h3{
 
 
 #map {
-    height: 500px;
-    width: 100%;
-    margin: auto;
+  height: 500px;
+  width: 100%;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  text-align:center;
+  justify-content: space-around;
 }
 
 
@@ -51,7 +57,6 @@ line {
     stroke: black;
 }
 
-
 circle {
    fill: black;
 }
@@ -59,7 +64,6 @@ circle {
 circle:hover{
   fill: yellow;
 }
-
 
 .Border {
   stroke: purple;
@@ -78,5 +82,5 @@ circle:hover{
 }
 
 svg{
-    font-size: 40px;
+    font-size: 30px;
 }
