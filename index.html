@@ -54,9 +54,18 @@
     <div>
         <h2>Visualization</h2>
         <div class="container">
+            <div class = "col1" id="input" >
+                Add a marker with the given latitude and longitude. We recommend latitude values between -119.6 and -120, and longitude values between 34.4 and 34.55
+                <br><br><br>
+                Latitude<input type="number" id="lat_in" value="34.43">
+                <br><br><br>
+                Longitude<input type="number" id="long_in" value="-119.7">
+                <br><br><br>
+                <button id="marker_button">Add marker</button>
+            </div>
             <!-- <div id="scatter"></div> -->
-            <div class = "col1" id="map" style="height:500px; width: 700px; margin: auto;"></div>
-            <div class = "col2" id="vis2"></div>
+            <div class = "col2" id="map" style="height:500px; width:40%; float: center; margin: auto;"></div>
+            <div class = "col3" id="vis2"></div>
         </div>
     </div>
 

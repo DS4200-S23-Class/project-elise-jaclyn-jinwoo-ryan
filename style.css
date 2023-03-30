@@ -20,14 +20,22 @@ h3{
   display: table;
   clear: both;
 }
+
+
 .col1 {
   float: left;
-  width: 60%;
+  width: 20%;
+
 }
 
 .col2 {
-  float: right;
-  width: 40%;
+  float: center;
+  width: 50%;
+}
+
+.col3 {
+  float: center;
+  width: 30%;
 }
 
 #frame {

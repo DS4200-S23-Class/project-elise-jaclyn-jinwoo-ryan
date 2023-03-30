@@ -40,11 +40,31 @@ window.initMap = function() {
 		});
 	});
 
+
+	function handle_button() {
+	lat = document.getElementById("lat_in").value
+	lng = document.getElementById("long_in").value
+
+	let center = new google.maps.LatLng(lat, lng);
+  	// using global variable:
+  	map.panTo(center);
+
+  	let marker = new google.maps.Marker({
+			map,
+			position: center,
+			icon: {url: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png"},
+			title: "You are Here"
+		});
+
+}
+
+document.getElementById("marker_button").addEventListener('click', handle_button);
+
 };
 
 // Frame constants for the bar chart
 const frame_height = 500;
-const frame_width = 500;
+const frame_width = 400;
 const margins = {left: 100, right: 100, top: 100, bottom: 100};
 const review_color = {"1 star": "#E92E1F", "2 star": "#E9931F", "3 star": "#DAE91F", "4 star": "#75E91F", "5 star": "#1FE92E"};
 
