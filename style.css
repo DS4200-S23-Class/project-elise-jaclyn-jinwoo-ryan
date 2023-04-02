@@ -89,6 +89,6 @@ circle:hover{
     border-color: black;
 }
 
-svg{
-    font-size: 30px;
+.title{
+    font-size: 25px;
 }
