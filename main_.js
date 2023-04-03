@@ -140,7 +140,7 @@ function load_bar(star_counts, date_counts) {
 
 		FRAME2.append("text")
 		    .attr("x", ((frame_width) - (margins.right))/2)
-		    .attr("y", margins.top)
+		    .attr("y", margins.top/1.5)
 		    .text("Review Distribution")
 		    .attr("class", "title");
 
@@ -173,8 +173,8 @@ function load_bar(star_counts, date_counts) {
     	// Updates the tooltip with the correct information
 		function handleMousemove(event, d, bar) {
 			tooltip.html("Most Recent Review of this Rating: " + date_counts[bar.id])
-			.style("left", (event.pageX + 10) + "px")
-			.style("top", (event.pageY + 50) + "px");
+			.style("left", (event.pageX - 300) + "px")
+			.style("top", (event.pageY - 100) + "px");
 		}
 
     	// Hides the tooltip when the mouse leaves a bar

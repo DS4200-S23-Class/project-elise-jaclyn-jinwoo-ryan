@@ -91,4 +91,6 @@ circle:hover{
 
 .title{
     font-size: 25px;
+    padding-bottom: 10px;
+    line-height: 18;
 }
