@@ -172,9 +172,10 @@ function load_bar(star_counts, date_counts) {
 
     	// Updates the tooltip with the correct information
 		function handleMousemove(event, d, bar) {
+			console.log(event.pageX)
 			tooltip.html("Most Recent Review of this Rating: " + date_counts[bar.id])
-			.style("left", (d.pageX + 10) + "px")
-			.style("top", (d.pageY + 50) + "px");
+			.style("left", (event.pageX + 10) + "px")
+			.style("top", (event.pageY + 50) + "px");
 		}
 
     	// Hides the tooltip when the mouse leaves a bar
@@ -187,7 +188,7 @@ function load_bar(star_counts, date_counts) {
     	// Attaches event handlers to all the bars
 		FRAME2.selectAll(".bar")
 		    .on("mouseover", handleMouseover)
-		    .on("mousemove", function () {handleMousemove(0,0,this)})
+		    .on("mousemove", function () {handleMousemove(event,0,this)})
 		    .on("mouseleave", handleMouseleave);
 	});
 }
