@@ -172,7 +172,6 @@ function load_bar(star_counts, date_counts) {
 
     	// Updates the tooltip with the correct information
 		function handleMousemove(event, d, bar) {
-			console.log(event.pageX)
 			tooltip.html("Most Recent Review of this Rating: " + date_counts[bar.id])
 			.style("left", (event.pageX + 10) + "px")
 			.style("top", (event.pageY + 50) + "px");
