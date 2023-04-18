@@ -99,3 +99,8 @@ circle:hover{
     padding-bottom: 10px;
     line-height: 18;
 }
+
+video {
+  float: center;
+  width: 70%;
+}
