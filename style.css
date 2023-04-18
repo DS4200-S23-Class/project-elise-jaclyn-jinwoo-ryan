@@ -100,7 +100,11 @@ circle:hover{
     line-height: 18;
 }
 
+div {
+text-align: center;
+}
+
 video {
-  float: center;
+  text-align: center;
   width: 70%;
 }
